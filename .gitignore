@@ -1,0 +1,6 @@
+*~
+.DS_Store
+json/*.json
+.ipynb_checkpoints
+*.zip
+shapefiles/*
