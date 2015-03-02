@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Crude Oil by Rail in PA</title>
+    <title>Bakken Crude Oil by Rail in PA</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -191,10 +191,10 @@
         var circle = {
           path: google.maps.SymbolPath.CIRCLE,
           fillColor: fillColor,
-          fillOpacity: .65,
+          fillOpacity: 1.,
           scale: 10,
           strokeColor: 'white',
-          strokeWeight: .5
+          strokeWeight: 1.5
         };
         return circle;
       }
@@ -242,9 +242,9 @@
         map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(geolocationControlDiv);
 
         // Load a GeoJSON from the same server as our demo.
+        map.data.loadGeoJson('json/combined-buffer.json');
         map.data.loadGeoJson('json/csx.json');
         map.data.loadGeoJson('json/ns.json');
-        map.data.loadGeoJson('json/combined-buffer.json');
         map.data.loadGeoJson('json/hospitals.json');
         map.data.loadGeoJson('json/nursing-homes.json');
         map.data.loadGeoJson('json/private-schools.json');
@@ -276,14 +276,26 @@
                 };
               }
 
+            } else if (feature.getGeometry().getType() == "LineString") {
+              return {
+                  strokeColor: 'rgb(255,244,25)',
+                  strokeWeight: 3.,
+                  strokeOpacity: .75,
+                  zIndex: 5
+              }
+
             } else {
               return {
-                  fillColor: 'red',
-                  strokeWeight: 1
+                  fillColor: 'rgb(220,38,16)',
+                  fillWeight: 1.,
+                  fillOpacity: .85,
+                  strokeColor: 'rgb(229,0,21)',
+                  strokeOpacity: .95,
+                  strokeWeight: 2.,
+                  zIndex: 1
               }
             }
         });
-
         var infowindow;
         map.data.addListener('click', function(event) {
           if (event.feature.getGeometry().getType() == "Point") {
