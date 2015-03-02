@@ -253,22 +253,26 @@
             if (feature.getGeometry().getType() == "Point") {
               if (feature.getProperty("type") == "hospital") {
                 return {
-                  icon: getCircle('red')
+                  icon: getCircle('red'),
+                  zIndex: 12
                 };
               }
               if (feature.getProperty("type") == "nursingHome") {
                 return {
-                  icon: getCircle('yellow')
+                  icon: getCircle('yellow'),
+                  zIndex: 11
                 };
               }
               if (feature.getProperty("type") == "publicSchool") {
                 return {
-                  icon: getCircle('blue')
+                  icon: getCircle('blue'),
+                  zIndex: 10
                 };
               }
               if (feature.getProperty("type") == "privateSchool") {
                 return {
-                  icon: getCircle('blue')
+                  icon: getCircle('blue'),
+                  zIndex: 10
                 };
               }
 
