@@ -1,0 +1,1658 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.02523756029998, 
+                    39.809520542600005
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "MEYERSDALE", 
+                "NAME": "GOLDEN LIVINGCENTER-MEYERSDALE", 
+                "location_t": "Address", 
+                "map_latitu": 39.8095205426, 
+                "ZIP": 15552, 
+                "TELEPHONE": "(814)634-5966", 
+                "ST": "PA", 
+                "street": "201 HOSPITAL DRIVE", 
+                "field_14": null, 
+                "BED COUNT": 99, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "201 HOSPITAL DRIVE, MEYERSDALE, PA, 15552", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.0252375603
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.320579, 
+                    39.879669
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "RIDLEY PARK", 
+                "NAME": "CONNER-WILLIAMS NURSING HOME", 
+                "location_t": "Address", 
+                "map_latitu": 39.879669, 
+                "ZIP": 19078, 
+                "TELEPHONE": "(610)521-1331", 
+                "ST": "PA", 
+                "street": "105 MORTON AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 50, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "105 MORTON AVENUE, RIDLEY PARK, PA, 19078", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.320579
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.19475474949999, 
+                    39.954752773
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "PENN CENTER FOR REHABILITATION & CARE", 
+                "location_t": "Address", 
+                "map_latitu": 39.954752773, 
+                "ZIP": 19104, 
+                "TELEPHONE": "(215)386-2942", 
+                "ST": "PA", 
+                "street": "3609 CHESTNUT STREET", 
+                "field_14": null, 
+                "BED COUNT": 124, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "3609 CHESTNUT STREET, PHILADELPHIA, PA, 19104", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.1947547495
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.14458067719998, 
+                    40.03680221739995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "WILLOWCREST", 
+                "location_t": "Address", 
+                "map_latitu": 40.0368022174, 
+                "ZIP": 19141, 
+                "TELEPHONE": "(215)456-8632", 
+                "ST": "PA", 
+                "street": "5501 OLD YORK ROAD", 
+                "field_14": null, 
+                "BED COUNT": 52, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "5501 OLD YORK ROAD, PHILADELPHIA, PA, 19141", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.1445806772
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.07048, 
+                    40.071205
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "PENNYPACK CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.071205, 
+                "ZIP": 19111, 
+                "TELEPHONE": "(215)725-2525", 
+                "ST": "PA", 
+                "street": "8015 LAWNDALE STREET", 
+                "field_14": null, 
+                "BED COUNT": 54, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "8015 LAWNDALE STREET, PHILADELPHIA, PA, 19111", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.07048
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.048019, 
+                    40.089687
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "CHAPEL MANOR", 
+                "location_t": "Address", 
+                "map_latitu": 40.089687, 
+                "ZIP": 19115, 
+                "TELEPHONE": "(215)676-9191", 
+                "ST": "PA", 
+                "street": "1104 WELSH ROAD", 
+                "field_14": null, 
+                "BED COUNT": 238, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "1104 WELSH ROAD, PHILADELPHIA, PA, 19115", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.048019
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.03146454689997, 
+                    40.093337148400046
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "PAUL'S RUN", 
+                "location_t": "Address", 
+                "map_latitu": 40.0933371484, 
+                "ZIP": 19115, 
+                "TELEPHONE": "(215)934-3000", 
+                "ST": "PA", 
+                "street": "9896 BUSTLETON AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "9896 BUSTLETON AVENUE, PHILADELPHIA, PA, 19115", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.0314645469
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.90722656249997, 
+                    40.164360046400006
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "LANGHORNE", 
+                "NAME": "LANGHORNE GARDENS REHABILITATION AND NURSING CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.1643600464, 
+                "ZIP": 19047, 
+                "TELEPHONE": "(215)757-7667", 
+                "ST": "PA", 
+                "street": "350 MANOR AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "350 MANOR AVENUE, LANGHORNE, PA, 19047", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -74.9072265625
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.86150503159999, 
+                    40.20983286200001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "YARDLEY", 
+                "NAME": "MANORCARE HEALTH SERVICES-OXFORD VALLEY", 
+                "location_t": "Address", 
+                "map_latitu": 40.209832862, 
+                "ZIP": 19067, 
+                "TELEPHONE": "(215)321-3921", 
+                "ST": "PA", 
+                "street": "1480 OXFORD VALLEY ROAD", 
+                "field_14": null, 
+                "BED COUNT": 150, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "1480 OXFORD VALLEY ROAD, YARDLEY, PA, 19067", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -74.8615050316
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.83815765379997, 
+                    40.25524520869998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HARRISBURG", 
+                "NAME": "SPRING CREEK REHAB & HEALTH CARE CTR", 
+                "location_t": "Address", 
+                "map_latitu": 40.2552452087, 
+                "ZIP": 17111, 
+                "TELEPHONE": "(717)565-7000", 
+                "ST": "PA", 
+                "street": "1205 SOUTH 28TH STREET", 
+                "field_14": null, 
+                "BED COUNT": 404, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "1205 SOUTH 28TH STREET, HARRISBURG, PA, 17111", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.8381576538
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.91661834719997, 
+                    40.257987976099976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "CAMP HILL", 
+                "NAME": "GOLDEN LIVINGCENTER-CAMP HILL", 
+                "location_t": "Address", 
+                "map_latitu": 40.2579879761, 
+                "ZIP": 17011, 
+                "TELEPHONE": "(717)763-7361", 
+                "ST": "PA", 
+                "street": "46 ERFORD ROAD", 
+                "field_14": null, 
+                "BED COUNT": 95, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "46 ERFORD ROAD, CAMP HILL, PA, 17011", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.9166183472
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.68335996569999, 
+                    40.27345150709997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HUMMELSTOWN", 
+                "NAME": "PENN STATE HERSHEY TRANSITIONAL CARE", 
+                "location_t": "Address", 
+                "map_latitu": 40.2734515071, 
+                "ZIP": 17036, 
+                "TELEPHONE": "(717)832-2600", 
+                "ST": "PA", 
+                "street": "1135 OLD WEST CHOCOLATE AVENUE, 2ND FLOOR", 
+                "field_14": null, 
+                "BED COUNT": 22, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "1135 OLD WEST CHOCOLATE AVENUE, 2ND FLOOR, HUMMELSTOWN, PA, 17036", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.6833599657
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.89015197749998, 
+                    40.27869796749999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HARRISBURG", 
+                "NAME": "HOMELAND CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.2786979675, 
+                "ZIP": 17102, 
+                "TELEPHONE": "(717)221-7900", 
+                "ST": "PA", 
+                "street": "1901 NORTH FIFTH STREET", 
+                "field_14": null, 
+                "BED COUNT": 95, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1901 NORTH FIFTH STREET, HARRISBURG, PA, 17102", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.8901519775
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.528091, 
+                    40.305469
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "GREENSBURG", 
+                "NAME": "ST. ANNE HOME", 
+                "location_t": "Address", 
+                "map_latitu": 40.305469, 
+                "ZIP": 15601, 
+                "TELEPHONE": "(724)837-6070", 
+                "ST": "PA", 
+                "street": "685 ANGELA DRIVE", 
+                "field_14": null, 
+                "BED COUNT": 125, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "685 ANGELA DRIVE, GREENSBURG, PA, 15601", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.528091
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.599662, 
+                    40.311408
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PALMYRA", 
+                "NAME": "PALMYRA HEALTH AND REHABILITATION CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.311408, 
+                "ZIP": 17078, 
+                "TELEPHONE": "(717)838-3011", 
+                "ST": "PA", 
+                "street": "341 N RAILROAD STREET", 
+                "field_14": null, 
+                "BED COUNT": 39, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "341 N RAILROAD STREET, PALMYRA, PA, 17078", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.599662
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.01036, 
+                    40.319667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "SINKING SPRING", 
+                "NAME": "MANORCARE HEALTH SERVICES-SINKING SPRING", 
+                "location_t": "Address", 
+                "map_latitu": 40.319667, 
+                "ZIP": 19608, 
+                "TELEPHONE": "(610)670-2100", 
+                "ST": "PA", 
+                "street": "3000 WINDMILL ROAD", 
+                "field_14": null, 
+                "BED COUNT": 214, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "3000 WINDMILL ROAD, SINKING SPRING, PA, 19608", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.01036
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.947952, 
+                    40.322143
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "READING", 
+                "NAME": "WYOMISSING HEALTH AND REHABILITATION CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.322143, 
+                "ZIP": 19611, 
+                "TELEPHONE": "(610)376-3991", 
+                "ST": "PA", 
+                "street": "1000 EAST WYOMISSING BOULEVARD", 
+                "field_14": null, 
+                "BED COUNT": 103, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1000 EAST WYOMISSING BOULEVARD, READING, PA, 19611", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.947952
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.92130330199998, 
+                    40.32656259829998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "JOHNSTOWN", 
+                "NAME": "CONEMAUGH MEMORIAL MEDICAL CENTER TRANSITIONAL CARE UNIT", 
+                "location_t": "Address", 
+                "map_latitu": 40.3265625983, 
+                "ZIP": 15901, 
+                "TELEPHONE": "(814)534-6111", 
+                "ST": "PA", 
+                "street": "320 MAIN STREET", 
+                "field_14": null, 
+                "BED COUNT": 30, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "320 MAIN STREET, JOHNSTOWN, PA, 15901", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -78.921303302
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.07043094929998, 
+                    40.33071734009998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "WERNERSVILLE", 
+                "NAME": "PHOEBE BERKS HEALTH CARE CENTER, INC.", 
+                "location_t": "Address", 
+                "map_latitu": 40.3307173401, 
+                "ZIP": 19565, 
+                "TELEPHONE": "(610)678-4002", 
+                "ST": "PA", 
+                "street": "1 HEIDELBERG DRIVE", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1 HEIDELBERG DRIVE, WERNERSVILLE, PA, 19565", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -76.0704309493
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.94598583879998, 
+                    40.3327578306
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "WEST READING", 
+                "NAME": "SPRUCE MANOR NURSING & REHABILITATION CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.3327578306, 
+                "ZIP": 19611, 
+                "TELEPHONE": "(610)374-5175", 
+                "ST": "PA", 
+                "street": "220 SOUTH 4TH AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 184, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "220 SOUTH 4TH AVENUE, WEST READING, PA, 19611", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.9459858388
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.947349, 
+                    40.337368
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "WEST READING", 
+                "NAME": "MANORCARE HEALTH SERVICES-WEST READING NORTH", 
+                "location_t": "Address", 
+                "map_latitu": 40.337368, 
+                "ZIP": 19611, 
+                "TELEPHONE": "(610)373-5166", 
+                "ST": "PA", 
+                "street": "425 BUTTONWOOD STREET", 
+                "field_14": null, 
+                "BED COUNT": 176, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "425 BUTTONWOOD STREET, WEST READING, PA, 19611", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.947349
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.867401, 
+                    40.347385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "MCKEESPORT", 
+                "NAME": "JOHN J KANE REGIONAL CENTER- MCKEESPORT", 
+                "location_t": "Address", 
+                "map_latitu": 40.347385, 
+                "ZIP": 15132, 
+                "TELEPHONE": "(412)675-8621", 
+                "ST": "PA", 
+                "street": "100 NINTH AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 360, 
+                "OWNERSHIP": "GOVERNMENT-COU", 
+                "address": "100 NINTH AVENUE, MCKEESPORT, PA, 15132", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.867401
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.84873199459997, 
+                    40.35024261469999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "MCKEESPORT", 
+                "NAME": "UPMC MCKEESPORT LONG TERM CARE FACILITY", 
+                "location_t": "Address", 
+                "map_latitu": 40.3502426147, 
+                "ZIP": 15132, 
+                "TELEPHONE": "(412)664-2601", 
+                "ST": "PA", 
+                "street": "1500 FIFTH AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 24, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1500 FIFTH AVENUE, MCKEESPORT, PA, 15132", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.8487319946
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.02519989009998, 
+                    40.368423461899965
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "DUNCANNON", 
+                "NAME": "KINKORA PYTHIAN HOME", 
+                "location_t": "Address", 
+                "map_latitu": 40.3684234619, 
+                "ZIP": 17020, 
+                "TELEPHONE": "(717)834-4887", 
+                "ST": "PA", 
+                "street": "25 COVE ROAD", 
+                "field_14": null, 
+                "BED COUNT": 60, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "25 COVE ROAD, DUNCANNON, PA, 17020", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -77.0251998901
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.930641, 
+                    40.407936
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "JOHN J KANE REGIONAL CENTER - GLEN HAZEL", 
+                "location_t": "Address", 
+                "map_latitu": 40.407936, 
+                "ZIP": 15207, 
+                "TELEPHONE": "(412)422-6800", 
+                "ST": "PA", 
+                "street": "955 RIVERMONT DRIVE", 
+                "field_14": null, 
+                "BED COUNT": 210, 
+                "OWNERSHIP": "GOVERNMENT-COU", 
+                "address": "955 RIVERMONT DRIVE, PITTSBURGH, PA, 15207", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.930641
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.92138236759999, 
+                    40.4140676558
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "CHARLES M MORRIS NURSING & REHAB CTR", 
+                "location_t": "Address", 
+                "map_latitu": 40.4140676558, 
+                "ZIP": 15217, 
+                "TELEPHONE": "(412)420-4000", 
+                "ST": "PA", 
+                "street": "200 JHF DR", 
+                "field_14": null, 
+                "BED COUNT": 159, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "200 JHF DR, PITTSBURGH, PA, 15217", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.9213823676
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.89032745359998, 
+                    40.44507217409998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "VILLAGE AT PENNWOOD", 
+                "location_t": "Address", 
+                "map_latitu": 40.4450721741, 
+                "ZIP": 15221, 
+                "TELEPHONE": "(412)723-3662", 
+                "ST": "PA", 
+                "street": "909 WEST STREET", 
+                "field_14": null, 
+                "BED COUNT": 126, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "909 WEST STREET, PITTSBURGH, PA, 15221", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.8903274536
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.930778, 
+                    40.449897
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "MANORCARE HEALTH SERVICES-SHADYSIDE", 
+                "location_t": "Address", 
+                "map_latitu": 40.449897, 
+                "ZIP": 15232, 
+                "TELEPHONE": "(412)362-3500", 
+                "ST": "PA", 
+                "street": "5609 5TH AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 150, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "5609 5TH AVENUE, PITTSBURGH, PA, 15232", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.930778
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.933311, 
+                    40.455238
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "MANORCARE HEALTH SERVICES-PITTSBURGH", 
+                "location_t": "Address", 
+                "map_latitu": 40.455238, 
+                "ZIP": 15232, 
+                "TELEPHONE": "(412)665-2400", 
+                "ST": "PA", 
+                "street": "550 SOUTH NEGLEY AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 197, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "550 SOUTH NEGLEY AVENUE, PITTSBURGH, PA, 15232", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.933311
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.90924, 
+                    40.459278
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "FORBES CENTER FOR REHABILITATION AND HEALTHCARE", 
+                "location_t": "Address", 
+                "map_latitu": 40.459278, 
+                "ZIP": 15206, 
+                "TELEPHONE": "(412)665-3232", 
+                "ST": "PA", 
+                "street": "6655 FRANKSTOWN AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 134, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "6655 FRANKSTOWN AVENUE, PITTSBURGH, PA, 15206", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.90924
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.958251, 
+                    40.466033
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "CANTERBURY PLACE", 
+                "location_t": "Address", 
+                "map_latitu": 40.466033, 
+                "ZIP": 15201, 
+                "TELEPHONE": "(412)622-9000", 
+                "ST": "PA", 
+                "street": "310 FISK STREET", 
+                "field_14": null, 
+                "BED COUNT": 80, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "310 FISK STREET, PITTSBURGH, PA, 15201", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.958251
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.01385298369998, 
+                    40.493697747599974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HUNTINGDON", 
+                "NAME": "HUNTINGDON NURSING AND REHABILITATION CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.4936977476, 
+                "ZIP": 16652, 
+                "TELEPHONE": "(814)643-4210", 
+                "ST": "PA", 
+                "street": "1229 WARM SPRINGS AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 93, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1229 WARM SPRINGS AVENUE, HUNTINGDON, PA, 16652", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -78.0138529837
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.06021881099998, 
+                    40.49413299560001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "LIFECARE HOSPITALS OF PITTSBURGH SNF UNIT", 
+                "location_t": "Address", 
+                "map_latitu": 40.4941329956, 
+                "ZIP": 15202, 
+                "TELEPHONE": "(412)734-6110", 
+                "ST": "PA", 
+                "street": "100 SOUTH JACKSON AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 40, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "100 SOUTH JACKSON AVENUE, PITTSBURGH, PA, 15202", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.060218811
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.11444854739999, 
+                    40.50170516969995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "CORAOPOLIS", 
+                "NAME": "CARING HEIGHTS COMMUNITY CARE AND REHABILITATION CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.5017051697, 
+                "ZIP": 15108, 
+                "TELEPHONE": "(412)331-6060", 
+                "ST": "PA", 
+                "street": "234 CORAOPOLIS ROAD", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "234 CORAOPOLIS ROAD, CORAOPOLIS, PA, 15108", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.1144485474
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.700569, 
+                    40.503292
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "TOPTON", 
+                "NAME": "LUTHERAN HOME AT TOPTON, THE", 
+                "location_t": "Address", 
+                "map_latitu": 40.503292, 
+                "ZIP": 19562, 
+                "TELEPHONE": "(610)682-1400", 
+                "ST": "PA", 
+                "street": "1 SOUTH HOME AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 194, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1 SOUTH HOME AVENUE, TOPTON, PA, 19562", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.700569
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.39901953939997, 
+                    40.51719658079999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ALTOONA", 
+                "NAME": "ALTOONA CENTER FOR NURSING CARE", 
+                "location_t": "Address", 
+                "map_latitu": 40.5171965808, 
+                "ZIP": 16601, 
+                "TELEPHONE": "(814)946-2700", 
+                "ST": "PA", 
+                "street": "1020 GREEN AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "1020 GREEN AVENUE, ALTOONA, PA, 16601", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -78.3990195394
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.845016, 
+                    40.520362
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "OAKMONT", 
+                "NAME": "OAKMONT CENTER FOR NURSING & REHABILITATION", 
+                "location_t": "Address", 
+                "map_latitu": 40.520362, 
+                "ZIP": 15139, 
+                "TELEPHONE": "(412)828-7300", 
+                "ST": "PA", 
+                "street": "26 ANN STREET", 
+                "field_14": null, 
+                "BED COUNT": 85, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "26 ANN STREET, OAKMONT, PA, 15139", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.845016
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.14341735839999, 
+                    40.52808380130001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "SEWICKLEY", 
+                "NAME": "MASONIC VILLAGE AT SEWICKLEY", 
+                "location_t": "Address", 
+                "map_latitu": 40.5280838013, 
+                "ZIP": 15143, 
+                "TELEPHONE": "(412)741-1400", 
+                "ST": "PA", 
+                "street": "1000 MASONIC DRIVE", 
+                "field_14": null, 
+                "BED COUNT": 128, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1000 MASONIC DRIVE, SEWICKLEY, PA, 15143", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.1434173584
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.82058629389999, 
+                    40.54074168209996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "CHESWICK", 
+                "NAME": "HARMARVILLAGE CARE CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.5407416821, 
+                "ZIP": 15024, 
+                "TELEPHONE": "(724)274-3773", 
+                "ST": "PA", 
+                "street": "715 FREEPORT ROAD", 
+                "field_14": null, 
+                "BED COUNT": 130, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "715 FREEPORT ROAD, CHESWICK, PA, 15024", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.8205862939
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.62137874959997, 
+                    40.55089920759999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "GRANVILLE", 
+                "NAME": "MALTA HOME", 
+                "location_t": "Address", 
+                "map_latitu": 40.5508992076, 
+                "ZIP": 17029, 
+                "TELEPHONE": "(717)248-3988", 
+                "ST": "PA", 
+                "street": "105 MALTA DRIVE", 
+                "field_14": null, 
+                "BED COUNT": 40, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "105 MALTA DRIVE, GRANVILLE, PA, 17029", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -77.6213787496
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.46589992939997, 
+                    40.592435896400026
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ALLENTOWN", 
+                "NAME": "GOOD SHEPHERD HOME RAKER CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.5924358964, 
+                "ZIP": 18103, 
+                "TELEPHONE": "(610)776-3199", 
+                "ST": "PA", 
+                "street": "601 ST JOHN STREET", 
+                "field_14": null, 
+                "BED COUNT": 99, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "601 ST JOHN STREET, ALLENTOWN, PA, 18103", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.4658999294
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.74163, 
+                    40.613845
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BRACKENRIDGE", 
+                "NAME": "PLATINUM RIDGE CENTER FOR REHABILITATION AND HEALING", 
+                "location_t": "Address", 
+                "map_latitu": 40.613845, 
+                "ZIP": 15014, 
+                "TELEPHONE": "(724)224-9200", 
+                "ST": "PA", 
+                "street": "1050 BROADVIEW BOULEVARD", 
+                "field_14": null, 
+                "BED COUNT": 97, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "1050 BROADVIEW BOULEVARD, BRACKENRIDGE, PA, 15014", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -79.74163
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.39934895929999, 
+                    40.61800807709999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BETHLEHEM", 
+                "NAME": "HOLY FAMILY MANOR", 
+                "location_t": "Address", 
+                "map_latitu": 40.6180080771, 
+                "ZIP": 18018, 
+                "TELEPHONE": "(610)865-5595", 
+                "ST": "PA", 
+                "street": "1200 SPRING STREET", 
+                "field_14": null, 
+                "BED COUNT": 208, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1200 SPRING STREET, BETHLEHEM, PA, 18018", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.3993489593
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.36299966279998, 
+                    40.6219884753
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BETHLEHEM", 
+                "NAME": "MORAVIAN VILLAGE OF BETHLEHEM", 
+                "location_t": "Address", 
+                "map_latitu": 40.6219884753, 
+                "ZIP": 18018, 
+                "TELEPHONE": "(610)625-4885", 
+                "ST": "PA", 
+                "street": "634 EAST BROAD ST", 
+                "field_14": null, 
+                "BED COUNT": 118, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "634 EAST BROAD ST, BETHLEHEM, PA, 18018", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.3629996628
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.42176082729999, 
+                    40.623912289699966
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ALLENTOWN", 
+                "NAME": "WESTMINSTER VILLAGE", 
+                "location_t": "Address", 
+                "map_latitu": 40.6239122897, 
+                "ZIP": 18103, 
+                "TELEPHONE": "(610)782-8300", 
+                "ST": "PA", 
+                "street": "803 N WAHNETA STREET", 
+                "field_14": null, 
+                "BED COUNT": 111, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "803 N WAHNETA STREET, ALLENTOWN, PA, 18103", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.4217608273
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.23359820249998, 
+                    40.647832900299974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BADEN", 
+                "NAME": "VILLA ST. JOSEPH OF BADEN INC", 
+                "location_t": "Address", 
+                "map_latitu": 40.6478329003, 
+                "ZIP": 15005, 
+                "TELEPHONE": "(724)869-6300", 
+                "ST": "PA", 
+                "street": "1030 STATE STREET", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "1030 STATE STREET, BADEN, PA, 15005", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.2335982025
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.242248, 
+                    40.67081
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "TYRONE", 
+                "NAME": "EPWORTH MANOR", 
+                "location_t": "Address", 
+                "map_latitu": 40.67081, 
+                "ZIP": 16686, 
+                "TELEPHONE": "(814)684-0320", 
+                "ST": "PA", 
+                "street": "951 WASHINGTON AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 102, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "951 WASHINGTON AVENUE, TYRONE, PA, 16686", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -78.242248
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.212158, 
+                    40.686996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "EASTON", 
+                "NAME": "EASTON HEALTH AND REHABILITATION CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.686996, 
+                "ZIP": 18042, 
+                "TELEPHONE": "(610)258-2988", 
+                "ST": "PA", 
+                "street": "498 WASHINGTON STREET", 
+                "field_14": null, 
+                "BED COUNT": 181, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "498 WASHINGTON STREET, EASTON, PA, 18042", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.212158
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.21293610329998, 
+                    40.68727545440001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "EASTON", 
+                "NAME": "PRAXIS ALZHEIMER'S FACILITY", 
+                "location_t": "Address", 
+                "map_latitu": 40.6872754544, 
+                "ZIP": 18042, 
+                "TELEPHONE": "(610)253-3573", 
+                "ST": "PA", 
+                "street": "500 WASHINGTON STREET", 
+                "field_14": null, 
+                "BED COUNT": 115, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "500 WASHINGTON STREET, EASTON, PA, 18042", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -75.2129361033
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.277526, 
+                    40.701644
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ROCHESTER", 
+                "NAME": "ROCHESTER MANOR", 
+                "location_t": "Address", 
+                "map_latitu": 40.701644, 
+                "ZIP": 15074, 
+                "TELEPHONE": "(724)775-6400", 
+                "ST": "PA", 
+                "street": "174 VIRGINIA AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 122, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "174 VIRGINIA AVENUE, ROCHESTER, PA, 15074", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.277526
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.31517, 
+                    40.749649
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BEAVER FALLS", 
+                "NAME": "PROVIDENCE CARE CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.749649, 
+                "ZIP": 15010, 
+                "TELEPHONE": "(724)846-8504", 
+                "ST": "PA", 
+                "street": "900 THIRD AVENUE", 
+                "field_14": null, 
+                "BED COUNT": 180, 
+                "OWNERSHIP": "FOR PROFIT-PAR", 
+                "address": "900 THIRD AVENUE, BEAVER FALLS, PA, 15010", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.31517
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18406677249997, 
+                    42.06743621829999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ERIE", 
+                "NAME": "SAINT MARY'S AT ASBURY RIDGE", 
+                "location_t": "Address", 
+                "map_latitu": 42.0674362183, 
+                "ZIP": 16506, 
+                "TELEPHONE": "(814)836-5300", 
+                "ST": "PA", 
+                "street": "4855 WEST RIDGE ROAD", 
+                "field_14": null, 
+                "BED COUNT": 80, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "4855 WEST RIDGE ROAD, ERIE, PA, 16506", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.1840667725
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.22075653079999, 
+                    42.0675086975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ERIE", 
+                "NAME": "MANCHESTER COMMONS", 
+                "location_t": "Address", 
+                "map_latitu": 42.0675086975, 
+                "ZIP": 16505, 
+                "TELEPHONE": "(814)838-9191", 
+                "ST": "PA", 
+                "street": "6351 WEST LAKE ROAD", 
+                "field_14": null, 
+                "BED COUNT": 78, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "6351 WEST LAKE ROAD, ERIE, PA, 16505", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.2207565308
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.07902450859999, 
+                    42.113977298100025
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ERIE", 
+                "NAME": "SARAH REED SENIOR LIVING", 
+                "location_t": "Address", 
+                "map_latitu": 42.1139772981, 
+                "ZIP": 16502, 
+                "TELEPHONE": "(814)878-2600", 
+                "ST": "PA", 
+                "street": "227 WEST 22ND STREET", 
+                "field_14": null, 
+                "BED COUNT": 106, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "227 WEST 22ND STREET, ERIE, PA, 16502", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.0790245086
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.07794894279998, 
+                    42.1143856645
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ERIE", 
+                "NAME": "VILLAGE AT LUTHER SQUARE, THE", 
+                "location_t": "Address", 
+                "map_latitu": 42.1143856645, 
+                "ZIP": 16502, 
+                "TELEPHONE": "(814)452-3271", 
+                "ST": "PA", 
+                "street": "149 WEST 22ND STREET", 
+                "field_14": null, 
+                "BED COUNT": 110, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "149 WEST 22ND STREET, ERIE, PA, 16502", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.0779489428
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.01499176029999, 
+                    42.1473045349
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ERIE", 
+                "NAME": "MANORCARE HEALTH SERVICES-ERIE", 
+                "location_t": "Address", 
+                "map_latitu": 42.1473045349, 
+                "ZIP": 16511, 
+                "TELEPHONE": "(814)898-5600", 
+                "ST": "PA", 
+                "street": "3805 FIELD STREET", 
+                "field_14": null, 
+                "BED COUNT": 120, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "3805 FIELD STREET, ERIE, PA, 16511", 
+                "map_type": "bing", 
+                "type": "nursingHome", 
+                "map_longit": -80.0149917603
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.36997677779999, 
+                    40.62050455559998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BETHLEHEM", 
+                "NAME": "BLOUGH HEALTHCARE CENTER, LLC", 
+                "location_t": "house", 
+                "map_latitu": 40.6205045556, 
+                "ZIP": 18018, 
+                "TELEPHONE": "(610)868-4982", 
+                "ST": "PA", 
+                "street": "316 EAST MARKET STREET", 
+                "field_14": null, 
+                "BED COUNT": 44, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "316 EAST MARKET STREET, BETHLEHEM, PA, 18018", 
+                "map_type": "mapquest", 
+                "type": "nursingHome", 
+                "map_longit": -75.3699767778
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.50594440659997, 
+                    40.330978866799995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ANNVILLE", 
+                "NAME": "LEBANON VALLEY HOME, THE", 
+                "location_t": "house", 
+                "map_latitu": 40.3309788668, 
+                "ZIP": 17003, 
+                "TELEPHONE": "(717)867-4467", 
+                "ST": "PA", 
+                "street": "550 EAST MAIN STREET", 
+                "field_14": null, 
+                "BED COUNT": 55, 
+                "OWNERSHIP": "NON PROFIT-COR", 
+                "address": "550 EAST MAIN STREET, ANNVILLE, PA, 17003", 
+                "map_type": "mapquest", 
+                "type": "nursingHome", 
+                "map_longit": -76.5059444066
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.01785233329998, 
+                    40.0969092
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "OAKWOOD HEALTHCARE & REHABILITATION CENTER", 
+                "location_t": "house", 
+                "map_latitu": 40.0969092, 
+                "ZIP": 19115, 
+                "TELEPHONE": "(215)673-7000", 
+                "ST": "PA", 
+                "street": "2109 RED LION ROAD", 
+                "field_14": null, 
+                "BED COUNT": 148, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "2109 RED LION ROAD, PHILADELPHIA, PA, 19115", 
+                "map_type": "mapquest", 
+                "type": "nursingHome", 
+                "map_longit": -75.0178523333
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.21414012239998, 
+                    39.94573755099995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "RENAISSANCE HEALTHCARE & REHABILITATION CENTER", 
+                "location_t": "house", 
+                "map_latitu": 39.945737551, 
+                "ZIP": 19143, 
+                "TELEPHONE": "(215)727-4450", 
+                "ST": "PA", 
+                "street": "4712 CHESTER AVE", 
+                "field_14": null, 
+                "BED COUNT": 123, 
+                "OWNERSHIP": "FOR PROFIT - C", 
+                "address": "4712 CHESTER AVE, PHILADELPHIA, PA, 19143", 
+                "map_type": "mapquest", 
+                "type": "nursingHome", 
+                "map_longit": -75.2141401224
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.41134969999999, 
+                    40.34092509999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "LEBANON", 
+                "NAME": "ROTHERMEL L. CAPLAN TRANSITIONAL CARE UNIT", 
+                "location_t": "locality", 
+                "map_latitu": 40.3409251, 
+                "ZIP": 17046, 
+                "TELEPHONE": "(717)270-7829", 
+                "ST": "PA", 
+                "street": "WILLOW AT FOURTH ST POB 1282", 
+                "field_14": "APPROXIMATE", 
+                "BED COUNT": 19, 
+                "OWNERSHIP": "NON PROFIT-OTH", 
+                "address": "WILLOW AT FOURTH ST POB 1282, LEBANON, PA, 17046", 
+                "map_type": "google", 
+                "type": "nursingHome", 
+                "map_longit": -76.4113497
+            }
+        }
+    ]
+}

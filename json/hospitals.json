@@ -1,0 +1,973 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.02514033019997, 
+                    39.809470921800006
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "MEYERSDALE", 
+                "NAME": "CONEMAUGH MEYERSDALE MEDICAL CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 39.8094709218, 
+                "ZIP": 15552, 
+                "TELEPHONE": "(814)634-5911", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-CAH", 
+                "street": "200 HOSPITAL DRIVE", 
+                "BED COUNT": 20, 
+                "address": "200 HOSPITAL DRIVE, MEYERSDALE, PA, 15552", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.0251403302
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.19290000199999, 
+                    39.94869031009999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "CHILDRENS HOSPITAL OF PHILADELPHIA - TRANSPLANT CENTER", 
+                "location_t": "RoadIntersection", 
+                "map_latitu": 39.9486903101, 
+                "ZIP": 19104, 
+                "TELEPHONE": "(267)426-6922", 
+                "ST": "PA", 
+                "ABBREV": "TC", 
+                "street": "34TH STREET AND CIVIC CENTER BLVD.", 
+                "BED COUNT": 0, 
+                "address": "34TH STREET AND CIVIC CENTER BLVD., PHILADELPHIA, PA, 19104", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.192900002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.196968, 
+                    39.950447
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "HOSP OF THE UNIV OF PA", 
+                "location_t": "Address", 
+                "map_latitu": 39.950447, 
+                "ZIP": 19104, 
+                "TELEPHONE": "(215)662-3227", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "3400 SPRUCE STREET", 
+                "BED COUNT": 789, 
+                "address": "3400 SPRUCE STREET, PHILADELPHIA, PA, 19104", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.196968
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.15215054149999, 
+                    40.00480748709997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "TEMPLE UNIVERSITY HOSPITAL", 
+                "location_t": "Address", 
+                "map_latitu": 40.0048074871, 
+                "ZIP": 19140, 
+                "TELEPHONE": "(215)707-9602", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "3401 NORTH BROAD STREET", 
+                "BED COUNT": 722, 
+                "address": "3401 NORTH BROAD STREET, PHILADELPHIA, PA, 19140", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.1521505415
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.12602381409998, 
+                    40.00752255320002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "ST. CHRISTOPHER'S HOSPITAL FOR CHILDREN", 
+                "location_t": "Address", 
+                "map_latitu": 40.0075225532, 
+                "ZIP": 19134, 
+                "TELEPHONE": "(215)427-5000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-CHD", 
+                "street": "160 EAST ERIE AVE", 
+                "BED COUNT": 189, 
+                "address": "160 EAST ERIE AVE, PHILADELPHIA, PA, 19134", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.1260238141
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.18390990789997, 
+                    40.01310087740001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "HAVEN BEHAVIORAL HOSPITAL OF PHILADELPHIA", 
+                "location_t": "Address", 
+                "map_latitu": 40.0131008774, 
+                "ZIP": 19129, 
+                "TELEPHONE": "(215)475-3400", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-PSY", 
+                "street": "3300 HENRY AVENUE UNIT 4", 
+                "BED COUNT": 36, 
+                "address": "3300 HENRY AVENUE UNIT 4, PHILADELPHIA, PA, 19129", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.1839099079
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.586135, 
+                    40.022968
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "CONNELLSVILLE", 
+                "NAME": "HIGHLANDS HOSPITAL", 
+                "location_t": "Address", 
+                "map_latitu": 40.022968, 
+                "ZIP": 15425, 
+                "TELEPHONE": "(724)628-1500", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "401 EAST MURPHY AVENUE", 
+                "BED COUNT": 64, 
+                "address": "401 EAST MURPHY AVENUE, CONNELLSVILLE, PA, 15425", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.586135
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.14458067719998, 
+                    40.03680221739995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "ALBERT EINSTEIN MEDICAL CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.0368022174, 
+                "ZIP": 19141, 
+                "TELEPHONE": "(215)456-6010", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "5501 OLD YORK ROAD", 
+                "BED COUNT": 772, 
+                "address": "5501 OLD YORK ROAD, PHILADELPHIA, PA, 19141", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.1445806772
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.096977, 
+                    40.045978
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "KINDRED HOSPITAL - PHILADELPHIA", 
+                "location_t": "Address", 
+                "map_latitu": 40.045978, 
+                "ZIP": 19111, 
+                "TELEPHONE": "(215)722-8555", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "6129 PALMETTO STREET", 
+                "BED COUNT": 52, 
+                "address": "6129 PALMETTO STREET, PHILADELPHIA, PA, 19111", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.096977
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.08691117169997, 
+                    40.06876677270004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "JEANES HOSPITAL", 
+                "location_t": "Address", 
+                "map_latitu": 40.0687667727, 
+                "ZIP": 19111, 
+                "TELEPHONE": "(215)728-2000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "7600 CENTRAL AVENUE", 
+                "BED COUNT": 176, 
+                "address": "7600 CENTRAL AVENUE, PHILADELPHIA, PA, 19111", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.0869111717
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.61341270799998, 
+                    40.24395927790003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "POTTSTOWN", 
+                "NAME": "POTTSTOWN MEMORIAL MEDICAL CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.2439592779, 
+                "ZIP": 19464, 
+                "TELEPHONE": "(610)327-7004", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "1600 EAST HIGH STREET", 
+                "BED COUNT": 232, 
+                "address": "1600 EAST HIGH STREET, POTTSTOWN, PA, 19464", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.613412708
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.875, 
+                    40.25646209720002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HARRISBURG", 
+                "NAME": "PINNACLE HEALTH HOSPITALS", 
+                "location_t": "Address", 
+                "map_latitu": 40.2564620972, 
+                "ZIP": 17105, 
+                "TELEPHONE": "(717)782-5181", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "409 SOUTH SECOND STREET", 
+                "BED COUNT": 717, 
+                "address": "409 SOUTH SECOND STREET, HARRISBURG, PA, 17105", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -76.875
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.88009643549998, 
+                    40.257865905799974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HARRISBURG", 
+                "NAME": "PINNACLE HEALTH SYSTEMS - HARRISBURG", 
+                "location_t": "Address", 
+                "map_latitu": 40.2578659058, 
+                "ZIP": 17108, 
+                "TELEPHONE": "(717)231-8700", 
+                "ST": "PA", 
+                "ABBREV": "HOS-ESRD", 
+                "street": "111 SOUTH FRONT STREET", 
+                "BED COUNT": 0, 
+                "address": "111 SOUTH FRONT STREET, HARRISBURG, PA, 17108", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -76.8800964355
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.68335996569999, 
+                    40.27345150709997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HUMMELSTOWN", 
+                "NAME": "PENN STATE HERSHEY REHABILITATION LLC", 
+                "location_t": "Address", 
+                "map_latitu": 40.2734515071, 
+                "ZIP": 17036, 
+                "TELEPHONE": "(717)832-2600", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-RHB", 
+                "street": "1135 OLD WEST CHOCOLATE AVE", 
+                "BED COUNT": 76, 
+                "address": "1135 OLD WEST CHOCOLATE AVE, HUMMELSTOWN, PA, 17036", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -76.6833599657
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.555641, 
+                    40.300926
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "GREENSBURG", 
+                "NAME": "EXCELA HEALTH WESTMORELAND REGIONAL HOSPITAL", 
+                "location_t": "Address", 
+                "map_latitu": 40.300926, 
+                "ZIP": 15601, 
+                "TELEPHONE": "(724)832-4000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "532 WEST PITTSBURGH STREET", 
+                "BED COUNT": 374, 
+                "address": "532 WEST PITTSBURGH STREET, GREENSBURG, PA, 15601", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.555641
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.92130330199998, 
+                    40.32656259829998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "JOHNSTOWN", 
+                "NAME": "SELECT SPECIALTY HOSPITAL - JOHNSTOWN", 
+                "location_t": "Address", 
+                "map_latitu": 40.3265625983, 
+                "ZIP": 15901, 
+                "TELEPHONE": "(814)534-7300", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "320 MAIN STREET", 
+                "BED COUNT": 39, 
+                "address": "320 MAIN STREET, JOHNSTOWN, PA, 15901", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -78.921303302
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.95000983069998, 
+                    40.332426660299944
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "READING", 
+                "NAME": "READING HOSPITAL", 
+                "location_t": "RoadIntersection", 
+                "map_latitu": 40.3324266603, 
+                "ZIP": 19603, 
+                "TELEPHONE": "(484)628-8000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "SIXTH AVENUE AND SPRUCE ST", 
+                "BED COUNT": 709, 
+                "address": "SIXTH AVENUE AND SPRUCE ST, READING, PA, 19603", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.9500098307
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.84873199459997, 
+                    40.35024261469999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "MC KEESPORT", 
+                "NAME": "SELECT SPECIALTY HOSPITAL - MCKEESPORT, INC.", 
+                "location_t": "Address", 
+                "map_latitu": 40.3502426147, 
+                "ZIP": 15132, 
+                "TELEPHONE": "(412)664-2900", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "1500 FIFTH AVENUE", 
+                "BED COUNT": 30, 
+                "address": "1500 FIFTH AVENUE, MC KEESPORT, PA, 15132", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.8487319946
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.22396087649999, 
+                    40.41727828979996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "TORRANCE", 
+                "NAME": "TORRANCE STATE HOSPITAL", 
+                "location_t": "PopulatedPlace", 
+                "map_latitu": 40.4172782898, 
+                "ZIP": 15779, 
+                "TELEPHONE": "(724)459-4511", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-PSY", 
+                "street": "STATE ROUTE 1014, PO BOX 111", 
+                "BED COUNT": 348, 
+                "address": "STATE ROUTE 1014, PO BOX 111, TORRANCE, PA, 15779", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.2239608765
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.985511, 
+                    40.436084
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "UPMC MERCY", 
+                "location_t": "Address", 
+                "map_latitu": 40.436084, 
+                "ZIP": 15219, 
+                "TELEPHONE": "(412)232-8111", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "1400 LOCUST STREET", 
+                "BED COUNT": 495, 
+                "address": "1400 LOCUST STREET, PITTSBURGH, PA, 15219", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.985511
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.89170074459997, 
+                    40.446750640900014
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "NEW LIFECARE HOSPITALS OF PITTSBURGH LLC - MAIN CAMPUS", 
+                "location_t": "Address", 
+                "map_latitu": 40.4467506409, 
+                "ZIP": 15221, 
+                "TELEPHONE": "(412)247-2000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "225 PENN AVENUE", 
+                "BED COUNT": 129, 
+                "address": "225 PENN AVENUE, PITTSBURGH, PA, 15221", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.8917007446
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.002616, 
+                    40.45652
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ALLEGHENY", 
+                "NAME": "ALLEGHENY GENERAL HOSPITAL - TRANSPLANT CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.45652, 
+                "ZIP": 15212, 
+                "TELEPHONE": "(412)359-3131", 
+                "ST": "PA", 
+                "ABBREV": "TC", 
+                "street": "320 EAST NORTH AVENUE", 
+                "BED COUNT": 0, 
+                "address": "320 EAST NORTH AVENUE, ALLEGHENY, PA, 15212", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -80.002616
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.946372, 
+                    40.461372
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "WEST PENN HOSPITAL", 
+                "location_t": "Address", 
+                "map_latitu": 40.461372, 
+                "ZIP": 15224, 
+                "TELEPHONE": "(412)578-5000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "4800 FRIENDSHIP AVENUE", 
+                "BED COUNT": 308, 
+                "address": "4800 FRIENDSHIP AVENUE, PITTSBURGH, PA, 15224", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.946372
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.95256707069998, 
+                    40.466492772099976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "CHILDRENS HOSPITAL OF PITTSBURGH OF UPMC- TRANSPLANT CENTER", 
+                "location_t": "Address", 
+                "map_latitu": 40.4664927721, 
+                "ZIP": 15224, 
+                "TELEPHONE": "(412)692-5325", 
+                "ST": "PA", 
+                "ABBREV": "TC", 
+                "street": "ONE CHILDREN'S HOSPITAL DRIVE", 
+                "BED COUNT": 0, 
+                "address": "ONE CHILDREN'S HOSPITAL DRIVE, PITTSBURGH, PA, 15224", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.9525670707
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.896041, 
+                    40.489139
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "UPMC ST MARGARET", 
+                "location_t": "Address", 
+                "map_latitu": 40.489139, 
+                "ZIP": 15215, 
+                "TELEPHONE": "(412)784-4000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "815 FREEPORT ROAD", 
+                "BED COUNT": 249, 
+                "address": "815 FREEPORT ROAD, PITTSBURGH, PA, 15215", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.896041
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.01386170089998, 
+                    40.49368031319998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "HUNTINGDON", 
+                "NAME": "J C BLAIR MEMORIAL HOSP", 
+                "location_t": "Address", 
+                "map_latitu": 40.4936803132, 
+                "ZIP": 16652, 
+                "TELEPHONE": "(814)643-8840", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "1225 WARM SPRINGS AVENUE", 
+                "BED COUNT": 100, 
+                "address": "1225 WARM SPRINGS AVENUE, HUNTINGDON, PA, 16652", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -78.0138617009
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.06021881099998, 
+                    40.49413299560001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PITTSBURGH", 
+                "NAME": "NEW LIFECARE HOSPITALS OF PITTSBURGH LLC - SUBURBAN CAMPUS", 
+                "location_t": "Address", 
+                "map_latitu": 40.4941329956, 
+                "ZIP": 15202, 
+                "TELEPHONE": "(412)734-7601", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "100 S.  JACKSON AVENUE", 
+                "BED COUNT": 32, 
+                "address": "100 S.  JACKSON AVENUE, PITTSBURGH, PA, 15202", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -80.060218811
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.39789636429997, 
+                    40.52156388760004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ALTOONA", 
+                "NAME": "UPMC ALTOONA", 
+                "location_t": "Address", 
+                "map_latitu": 40.5215638876, 
+                "ZIP": 16601, 
+                "TELEPHONE": "(814)889-2011", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "620 HOWARD AVENUE", 
+                "BED COUNT": 375, 
+                "address": "620 HOWARD AVENUE, ALTOONA, PA, 16601", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -78.3978963643
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.48165893549998, 
+                    40.570930481
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ALLENTOWN", 
+                "NAME": "GOOD SHEPHERD REHABILITATION HOSPITAL, THE", 
+                "location_t": "Postcode1", 
+                "map_latitu": 40.570930481, 
+                "ZIP": 18103, 
+                "TELEPHONE": "(610)776-3130", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-RHB", 
+                "street": "GOOD SHEPHERD PLAZA", 
+                "BED COUNT": 106, 
+                "address": "GOOD SHEPHERD PLAZA, ALLENTOWN, PA, 18103", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.4816589355
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.39260101319998, 
+                    40.60860061650001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "EASTON", 
+                "NAME": "ST. LUKE'S HOSPITAL- ANDERSON CAMPUS", 
+                "location_t": "RoadBlock", 
+                "map_latitu": 40.6086006165, 
+                "ZIP": 18045, 
+                "TELEPHONE": "(610)954-3850", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "1872 ST. LUKE'S BLVD.", 
+                "BED COUNT": 108, 
+                "address": "1872 ST. LUKE'S BLVD., EASTON, PA, 18045", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.3926010132
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.39356231689999, 
+                    40.60992431639998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "BETHLEHEM", 
+                "NAME": "ST LUKE'S HOSPITAL BETHLEHEM", 
+                "location_t": "Address", 
+                "map_latitu": 40.6099243164, 
+                "ZIP": 18015, 
+                "TELEPHONE": "(610)954-4000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "801 OSTRUM STREET", 
+                "BED COUNT": 550, 
+                "address": "801 OSTRUM STREET, BETHLEHEM, PA, 18015", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -75.3935623169
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.72236633299998, 
+                    40.61656951899999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "NATRONA", 
+                "NAME": "NEW LIFECARE HOSPITALS OF PITTSBURGH LLC - ALLE-KISKI CAMPUS", 
+                "location_t": "PopulatedPlace", 
+                "map_latitu": 40.616569519, 
+                "ZIP": 15065, 
+                "TELEPHONE": "(412)734-7615", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "1301 CARLISLE STREET", 
+                "BED COUNT": 35, 
+                "address": "1301 CARLISLE STREET, NATRONA, PA, 15065", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -79.722366333
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.08776, 
+                    42.122924
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "ERIE", 
+                "NAME": "SELECT SPECIALTY HOSPITAL -  ERIE", 
+                "location_t": "Address", 
+                "map_latitu": 42.122924, 
+                "ZIP": 16501, 
+                "TELEPHONE": "(814)874-5300", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-LT", 
+                "street": "252 WEST 11TH STREET", 
+                "BED COUNT": 50, 
+                "address": "252 WEST 11TH STREET, ERIE, PA, 16501", 
+                "map_type": "bing", 
+                "type": "hospital", 
+                "map_longit": -80.08776
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.1521852, 
+                    40.004663
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "PHILADELPHIA", 
+                "NAME": "TEMPLE UNIVERSITY HOSPITAL DIALYSIS UNIT", 
+                "location_t": "intersection", 
+                "map_latitu": 40.004663, 
+                "ZIP": 19140, 
+                "TELEPHONE": "(215)707-4798", 
+                "ST": "PA", 
+                "ABBREV": "HOS-ESRD", 
+                "street": "BROAD & ONTARIO STREETS", 
+                "BED COUNT": null, 
+                "address": "BROAD & ONTARIO STREETS, PHILADELPHIA, PA, 19140", 
+                "map_type": "google", 
+                "type": "hospital", 
+                "map_longit": -75.1521852
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.36790949999998, 
+                    39.85597760000007
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "UPLAND", 
+                "NAME": "CROZER CHESTER MEDICAL CENTER", 
+                "location_t": "street_address", 
+                "map_latitu": 39.8559776, 
+                "ZIP": 19013, 
+                "TELEPHONE": "(610)447-2000", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "ONE MEDICAL CENTER BOULEVARD", 
+                "BED COUNT": null, 
+                "address": "ONE MEDICAL CENTER BOULEVARD, UPLAND, PA, 19013", 
+                "map_type": "google", 
+                "type": "hospital", 
+                "map_longit": -75.3679095
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.41749859999999, 
+                    40.337143899999944
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "LEBANON", 
+                "NAME": "GOOD SAMARITAN HOSPITAL, THE", 
+                "location_t": "intersection", 
+                "map_latitu": 40.3371439, 
+                "ZIP": 17042, 
+                "TELEPHONE": "(717)270-7500", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-ACU", 
+                "street": "PO BOX 1281 FOURTH & WALNUT STREETS", 
+                "BED COUNT": null, 
+                "address": "PO BOX 1281 FOURTH & WALNUT STREETS, LEBANON, PA, 17042", 
+                "map_type": "google", 
+                "type": "hospital", 
+                "map_longit": -76.4174986
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.08049719999998, 
+                    40.3300924
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CITY": "WERNERSVILLE", 
+                "NAME": "WERNERSVILLE STATE HOSPITAL", 
+                "location_t": "locality", 
+                "map_latitu": 40.3300924, 
+                "ZIP": 19565, 
+                "TELEPHONE": "(610)670-4100", 
+                "ST": "PA", 
+                "ABBREV": "HOSP-PSY", 
+                "street": "PO BOX 300", 
+                "BED COUNT": null, 
+                "address": "PO BOX 300, WERNERSVILLE, PA, 19565", 
+                "map_type": "google", 
+                "type": "hospital", 
+                "map_longit": -76.0804972
+            }
+        }
+    ]
+}

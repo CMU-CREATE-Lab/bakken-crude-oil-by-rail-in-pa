@@ -1,0 +1,5416 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.02756772999999, 
+                    39.81009521
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.81009521, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Learning Ladder", 
+                "address": "206 Beachley St, Meyersdale, PA, 15552", 
+                "map_type": "bing", 
+                "map_longit": -79.02756773, 
+                "AUNumber": 300566000
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.38130238999997, 
+                    39.841894809999985
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.84189481, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Frederick Douglass Christn Sch", 
+                "address": "700 Central Ave, Chester, PA, 19013", 
+                "map_type": "bing", 
+                "map_longit": -75.38130239, 
+                "AUNumber": 225231892
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.38121655999998, 
+                    39.84195717
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.84195717, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Shiloh Development Academy", 
+                "address": "703 Central Ave, Chester, PA, 19013", 
+                "map_type": "bing", 
+                "map_longit": -75.38121656, 
+                "AUNumber": 225237172
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.37426761999998, 
+                    39.84531059999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.8453106, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Faith Temple Christian School", 
+                "address": "1007 West 7th Street, Chester, PA, 19013", 
+                "map_type": "bing", 
+                "map_longit": -75.37426762, 
+                "AUNumber": 225231842
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.37505551999999, 
+                    39.84940901
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.84940901, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Institute of Islamic Studies", 
+                "address": "1105 Concord Ave, Chester, PA, 19013", 
+                "map_type": "bing", 
+                "map_longit": -75.37505552, 
+                "AUNumber": 225233402
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.36124281999999, 
+                    39.85167212999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.85167213, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Haven Kindergarten Academy", 
+                "address": "800 Welsh Street, Chester, PA, 19013", 
+                "map_type": "bing", 
+                "map_longit": -75.36124282, 
+                "AUNumber": 225230011
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.35997077999998, 
+                    39.86386612
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.86386612, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Widener Child Development Center", 
+                "address": "1800 Walnut Street, Chester, PA, 19013", 
+                "map_type": "bing", 
+                "map_longit": -75.35997078, 
+                "AUNumber": 300239950
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.354614, 
+                    39.869647
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.869647, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Computer Kidz Christian Academy", 
+                "address": "1936 MacDade Blvd., Woodlyn, PA, 19094", 
+                "map_type": "bing", 
+                "map_longit": -75.354614, 
+                "AUNumber": 225230015
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.345596, 
+                    39.877845
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.877845, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Buxmont Academy", 
+                "address": "1307 W MacDade Blvd, Woodlyn, PA, 19094", 
+                "map_type": "bing", 
+                "map_longit": -75.345596, 
+                "AUNumber": 325230005
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.3360448, 
+                    39.88183223
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.88183223, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Milagre Kids School", 
+                "address": "224 Milmont Ave, Folsom, PA, 19033", 
+                "map_type": "bing", 
+                "map_longit": -75.3360448, 
+                "AUNumber": 325230051
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.32596170999997, 
+                    39.882163480000024
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.88216348, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Saint James Regional Catholic School", 
+                "address": "500 Tome Street, Ridley Park, PA, 19078", 
+                "map_type": "bing", 
+                "map_longit": -75.32596171, 
+                "AUNumber": 225238552
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.282188, 
+                    39.902614
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.902614, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Liberty Baptist Academy", 
+                "address": "5 E Oak Ln, Glenolden, PA, 19036", 
+                "map_type": "bing", 
+                "map_longit": -75.282188, 
+                "AUNumber": 225234057
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.28028704, 
+                    39.91485491000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.91485491, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Christ Memorial Classical Academy", 
+                "address": "523 Clifton Avenue, Collingdale, PA, 19023", 
+                "map_type": "bing", 
+                "map_longit": -75.28028704, 
+                "AUNumber": 226511122
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.26790193999999, 
+                    39.91589561
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.91589561, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Collingdale Nazarene Christian School", 
+                "address": "212 MacDade Blvd., Collingdale, PA, 19023", 
+                "map_type": "bing", 
+                "map_longit": -75.26790194, 
+                "AUNumber": 225230918
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.16023782999999, 
+                    39.917124059999985
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.91712406, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Little Learning Lamp", 
+                "address": "435 Somerset Ave, Rockwood, PA, 15557", 
+                "map_type": "bing", 
+                "map_longit": -79.16023783, 
+                "AUNumber": 308560008
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.245544, 
+                    39.917217
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.917217, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Mount Sinai Christian Academy", 
+                "address": "7282 Woodland Avenue, Philadelphia, PA, 19142", 
+                "map_type": "bing", 
+                "map_longit": -75.245544, 
+                "AUNumber": 226510022
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.265335, 
+                    39.917312
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.917312, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Blessed Virgin Mary School", 
+                "address": "47 MacDade Blvd, Darby, PA, 19023", 
+                "map_type": "bing", 
+                "map_longit": -75.265335, 
+                "AUNumber": 225231202
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.259185, 
+                    39.919124
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.919124, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Creative Minds Christian Academy", 
+                "address": "121 Ridge Avenue, Darby, PA, 19023", 
+                "map_type": "bing", 
+                "map_longit": -75.259185, 
+                "AUNumber": 225230012
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.242858, 
+                    39.91991
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.91991, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Individual Assessment Manager Resource Academy", 
+                "address": "7035 Woodland Avenue, Philadelphia, PA, 19142", 
+                "map_type": "bing", 
+                "map_longit": -75.242858, 
+                "AUNumber": 226510051
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.22678903999999, 
+                    39.92246836
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.92246836, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "St Barnabas", 
+                "address": "6334 Buist Ave., Philadelphia, PA, 19142", 
+                "map_type": "bing", 
+                "map_longit": -75.22678904, 
+                "AUNumber": 226516452
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.22810868999998, 
+                    39.925872759999976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.92587276, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Legacy Christian Academy", 
+                "address": "6208 Grays Avenue, Philadelphia, PA, 19142", 
+                "map_type": "bing", 
+                "map_longit": -75.22810869, 
+                "AUNumber": 226511242
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.232696, 
+                    39.927108
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.927108, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Rising Stars Christian Academy", 
+                "address": "6327 Woodland Avenue, Philadelphia, PA, 19142", 
+                "map_type": "bing", 
+                "map_longit": -75.232696, 
+                "AUNumber": 226510069
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.19283495999998, 
+                    39.934915159999974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.93491516, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "St Gabriel School", 
+                "address": "2917 Dickinson Street, Philadelphia, PA, 19146", 
+                "map_type": "bing", 
+                "map_longit": -75.19283496, 
+                "AUNumber": 226517702
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.227462, 
+                    39.935237
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.935237, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Cornerstone Christian Academy", 
+                "address": "1939 S 58th St, Philadelphia, PA, 19143", 
+                "map_type": "bing", 
+                "map_longit": -75.227462, 
+                "AUNumber": 300512620
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.218513, 
+                    39.937519
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.937519, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Little Footsteps Islam Ins Lfs", 
+                "address": "5314 Yocum Street, Philadelphia, PA, 19143", 
+                "map_type": "bing", 
+                "map_longit": -75.218513, 
+                "AUNumber": 226512962
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.18209, 
+                    39.946956
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.946956, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Philadelphia School", 
+                "address": "2501 Lombard St, Philadelphia, PA, 19146", 
+                "map_type": "bing", 
+                "map_longit": -75.18209, 
+                "AUNumber": 226515462
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.208221, 
+                    39.948841
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.948841, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Jubilee School", 
+                "address": "4211 Chester Ave, Philadelphia, PA, 19104", 
+                "map_type": "bing", 
+                "map_longit": -75.208221, 
+                "AUNumber": 226511232
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.20606227, 
+                    39.94986578999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.94986579, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "City School", 
+                "address": "4115 Baltimore Ave, Philadelphia, PA, 19104", 
+                "map_type": "bing", 
+                "map_longit": -75.20606227, 
+                "AUNumber": 226515832
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.17588, 
+                    39.953109
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.953109, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "De La Salle in Town", 
+                "address": "25 S Van Pelt St, Philadelphia, PA, 19103", 
+                "map_type": "bing", 
+                "map_longit": -75.17588, 
+                "AUNumber": 226511302
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.175392, 
+                    39.956165
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.956165, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Greene Towne School Inc", 
+                "address": "2121 Arch St, Philadelphia, PA, 19103", 
+                "map_type": "bing", 
+                "map_longit": -75.175392, 
+                "AUNumber": 300513960
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.175956, 
+                    39.9589
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.9589, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Kumon Math and Reading Philadelphia", 
+                "address": "238 N 22nd Street, Philadelphia, PA, 19103", 
+                "map_type": "bing", 
+                "map_longit": -75.175956, 
+                "AUNumber": 226519494
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.17007976999999, 
+                    39.95994686999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.95994687, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "John W Hallahan Girls School", 
+                "address": "311 N 19th St, Philadelphia, PA, 19103", 
+                "map_type": "bing", 
+                "map_longit": -75.17007977, 
+                "AUNumber": 226512852
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.187828, 
+                    39.963638
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.963638, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Caring Center", 
+                "address": "3101 Spring Garden St, Philadelphia, PA, 19104", 
+                "map_type": "bing", 
+                "map_longit": -75.187828, 
+                "AUNumber": 300514670
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.17718694999998, 
+                    39.96624805
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.96624805, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "St Francis Xavier School", 
+                "address": "641 N. 24th Street, Philadelphia, PA, 19130", 
+                "map_type": "bing", 
+                "map_longit": -75.17718695, 
+                "AUNumber": 226517652
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.17617910999998, 
+                    39.97147702
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.97147702, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "City School at Fairmount", 
+                "address": "860 N. 24th Street, Philadelphia, PA, 19130", 
+                "map_type": "bing", 
+                "map_longit": -75.17617911, 
+                "AUNumber": 226517510
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.202301, 
+                    39.973426
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.973426, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Al Mosheh Shule of Positive Ed", 
+                "address": "3922 Cambridge Street, Philadelphia, PA, 19104", 
+                "map_type": "bing", 
+                "map_longit": -75.202301, 
+                "AUNumber": 226510055
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.17799294999999, 
+                    39.97561365
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.97561365, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Celestial Christian Academy", 
+                "address": "2534 W Thompson St, Philadelphia, PA, 19121", 
+                "map_type": "bing", 
+                "map_longit": -75.17799295, 
+                "AUNumber": 226510932
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.179473, 
+                    39.979648
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.979648, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Academy of Essential Knowledge", 
+                "address": "1546 N 27th St, Philadelphia, PA, 19121", 
+                "map_type": "bing", 
+                "map_longit": -75.179473, 
+                "AUNumber": 226515700
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.172683, 
+                    39.984668
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.984668, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Community Partnership School", 
+                "address": "1936 N Judson St, Philadelphia, PA, 19121", 
+                "map_type": "bing", 
+                "map_longit": -75.172683, 
+                "AUNumber": 326510079
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.14947436999998, 
+                    39.99178872
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.99178872, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Hope Partnership for Education", 
+                "address": "2601 N 11th St, Philadelphia, PA, 19133", 
+                "map_type": "bing", 
+                "map_longit": -75.14947437, 
+                "AUNumber": 326510060
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16935623999998, 
+                    39.995818059999976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.99581806, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "St Martin DE Porres North", 
+                "address": "2300 W Lehigh Ave, Philadelphia, PA, 19132", 
+                "map_type": "bing", 
+                "map_longit": -75.16935624, 
+                "AUNumber": 226517252
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16372680999997, 
+                    39.99674988
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "RoadBlock", 
+                "type": "privateSchool", 
+                "map_latitu": 39.99674988, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Computer Kidz Christian Academy", 
+                "address": "2243-57 N. 20th Street, Philadelphia, PA, 19132", 
+                "map_type": "bing", 
+                "map_longit": -75.16372681, 
+                "AUNumber": 226510085
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.098373, 
+                    39.998565
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.998565, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Tarbiyatul ILM Academy Inc.", 
+                "address": "2080 Castor Avenue, Philadelphia, PA, 19134", 
+                "map_type": "bing", 
+                "map_longit": -75.098373, 
+                "AUNumber": 226510070
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.102142, 
+                    39.999599
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.999599, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Kensington Christian Fellowship Academy", 
+                "address": "1921-25 E. Venango Street, Philadelphia, PA, 19134", 
+                "map_type": "bing", 
+                "map_longit": -75.102142, 
+                "AUNumber": 226510057
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.18515578999998, 
+                    40.00211923999994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.00211924, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Prodigy Learning Centers", 
+                "address": "3345 W Hunting Park Ave, Philadelphia, PA, 19132", 
+                "map_type": "bing", 
+                "map_longit": -75.18515579, 
+                "AUNumber": 300515320
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.15789, 
+                    40.002532
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.002532, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Thankful Learning Center Inc", 
+                "address": "3200 North 17 Street, Philadelphia, PA, 19140", 
+                "map_type": "bing", 
+                "map_longit": -75.15789, 
+                "AUNumber": 300518830
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.18237233, 
+                    40.00399679000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.00399679, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "St James School", 
+                "address": "3217 West Clearfiled Street, Philadelphia, PA, 19132", 
+                "map_type": "bing", 
+                "map_longit": -75.18237233, 
+                "AUNumber": 226510073
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.13937986999998, 
+                    40.00494896999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.00494897, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "St Veronica School", 
+                "address": "3521 N 6th St, Philadelphia, PA, 19140", 
+                "map_type": "bing", 
+                "map_longit": -75.13937987, 
+                "AUNumber": 226519442
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.17680339999998, 
+                    40.00596486
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.00596486, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Mercy Vocational High School", 
+                "address": "2900 W Hunting Park Ave, Philadelphia, PA, 19129", 
+                "map_type": "bing", 
+                "map_longit": -75.1768034, 
+                "AUNumber": 226514102
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.137802, 
+                    40.006374
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.006374, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Faith Tabernacle School", 
+                "address": "3611-15 N Randolph St, Philadelphia, PA, 19140", 
+                "map_type": "bing", 
+                "map_longit": -75.137802, 
+                "AUNumber": 226511552
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.60112057999997, 
+                    40.00657976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 1, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.00657976, 
+                "IU": "Intermediate Unit 1", 
+                "InstName": "Echo Child Development Center", 
+                "address": "1043 Morrell Avenue, Connellsville, PA, 15425", 
+                "map_type": "bing", 
+                "map_longit": -79.60112058, 
+                "AUNumber": 300262220
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.182174, 
+                    40.006607
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.006607, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Smart Center Academy", 
+                "address": "3301-33 W. Westmoreland Street, Philadelphia, PA, 19129", 
+                "map_type": "bing", 
+                "map_longit": -75.182174, 
+                "AUNumber": 226510067
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.18390990999997, 
+                    40.01310087999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.01310088, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Seedlings Early Care and Education Program", 
+                "address": "3300 Henry Avenue, Philadelphia, PA, 19129", 
+                "map_type": "bing", 
+                "map_longit": -75.18390991, 
+                "AUNumber": 326510062
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.59457262999999, 
+                    40.01633093
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 1, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.01633093, 
+                "IU": "Intermediate Unit 1", 
+                "InstName": "Connellsville Area Preschool", 
+                "address": "208 S First St, Connellsville, PA, 15425", 
+                "map_type": "bing", 
+                "map_longit": -79.59457263, 
+                "AUNumber": 300261850
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.154281, 
+                    40.017486
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.017486, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Destiny Christian Academy", 
+                "address": "4153 Germantown Avenue, Philadelphia, PA, 19140", 
+                "map_type": "bing", 
+                "map_longit": -75.154281, 
+                "AUNumber": 226510048
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.149383, 
+                    40.020309
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.020309, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Philadelphia Christian Academy", 
+                "address": "4400 N Broad St, Philadelphia, PA, 19140", 
+                "map_type": "bing", 
+                "map_longit": -75.149383, 
+                "AUNumber": 226513580
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.121849, 
+                    40.026573
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.026573, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Better Way Christian Academy", 
+                "address": "4950 Rising Sun Avenue, Philadelphia, PA, 19120", 
+                "map_type": "bing", 
+                "map_longit": -75.121849, 
+                "AUNumber": 226510029
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.145011, 
+                    40.028629
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.028629, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Logan Hope School", 
+                "address": "4934 North 13th Street, Philadelphia, PA, 19141", 
+                "map_type": "bing", 
+                "map_longit": -75.145011, 
+                "AUNumber": 226510004
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.11785983999997, 
+                    40.03044806
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.03044806, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "International Christian High School", 
+                "address": "413 E Tabor Rd, Philadelphia, PA, 19120", 
+                "map_type": "bing", 
+                "map_longit": -75.11785984, 
+                "AUNumber": 226512732
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.499427, 
+                    40.031837
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 13, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.031837, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "Our Lady of the Angels School", 
+                "address": "404 Cherry Street, Columbia, PA, 17512", 
+                "map_type": "bing", 
+                "map_longit": -76.499427, 
+                "AUNumber": 213367602
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.14618396999998, 
+                    40.03254621999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.03254622, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Cristo Rey Philadelphia High School", 
+                "address": "5218 N. Broad Street, Philadelphia, PA, 19141", 
+                "map_type": "bing", 
+                "map_longit": -75.14618397, 
+                "AUNumber": 226510080
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.51389312999999, 
+                    40.04391478999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 13, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.04391479, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "Little People Day Care", 
+                "address": "780 Chickies Hill Rd, Columbia, PA, 17512", 
+                "map_type": "bing", 
+                "map_longit": -76.51389313, 
+                "AUNumber": 300363980
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.114128, 
+                    40.047412
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.047412, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Gold Star Academy", 
+                "address": "214 East Fariston Drive, Philadelphia, PA, 19120", 
+                "map_type": "bing", 
+                "map_longit": -75.114128, 
+                "AUNumber": 226510049
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.09284288, 
+                    40.04926912
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.04926912, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Cedar Grove Chr Acad Lower Sch", 
+                "address": "6445 Bingham Street, Philadelphia, PA, 19111", 
+                "map_type": "bing", 
+                "map_longit": -75.09284288, 
+                "AUNumber": 226510912
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.089942, 
+                    40.054691
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.054691, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "First Century Gospel School", 
+                "address": "6807 Rising Sun Ave, Philadelphia, PA, 19111", 
+                "map_type": "bing", 
+                "map_longit": -75.089942, 
+                "AUNumber": 226511642
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.26458739999998, 
+                    40.05733870999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.05733871, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Academy in Manayunk", 
+                "address": "1200 River Rd, Conshohocken, PA, 19428", 
+                "map_type": "bing", 
+                "map_longit": -75.2645874, 
+                "AUNumber": 326510076
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.09367973, 
+                    40.05756319
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.05756319, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Presentation BVM School", 
+                "address": "105 Old Soldiers Road, Cheltenham, PA, 19012", 
+                "map_type": "bing", 
+                "map_longit": -75.09367973, 
+                "AUNumber": 223465802
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.55335530999999, 
+                    40.05790249000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 13, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.05790249, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "Susquehanna Waldorf School", 
+                "address": "15 W Walnut St, Marietta, PA, 17547", 
+                "map_type": "bing", 
+                "map_longit": -76.55335531, 
+                "AUNumber": 300368190
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.078086, 
+                    40.058536
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.058536, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Northeast Preparatory School", 
+                "address": "1309 Cottman Ave, Philadelphia, PA, 19111", 
+                "map_type": "bing", 
+                "map_longit": -75.078086, 
+                "AUNumber": 226514492
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.08290999, 
+                    40.06100379
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.06100379, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Immanuel Lutheran School", 
+                "address": "1015 Cottman Ave, Philadelphia, PA, 19111", 
+                "map_type": "bing", 
+                "map_longit": -75.08290999, 
+                "AUNumber": 226515382
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.09297942999999, 
+                    40.06226348999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.06226349, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Gospel of Grace Christian School", 
+                "address": "315 Central Avenue, Cheltenham, PA, 19012", 
+                "map_type": "bing", 
+                "map_longit": -75.09297943, 
+                "AUNumber": 226510058
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.038955, 
+                    40.080314
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.080314, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Politz Hebrew Academy", 
+                "address": "9225 Old Bustleton Ave, Philadelphia, PA, 19115", 
+                "map_type": "bing", 
+                "map_longit": -75.038955, 
+                "AUNumber": 300514330
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.03870985999998, 
+                    40.0816346699999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.08163467, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Maternity BVM School", 
+                "address": "9322 Old Bustleton Ave, Philadelphia, PA, 19115", 
+                "map_type": "bing", 
+                "map_longit": -75.03870986, 
+                "AUNumber": 226514052
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.02052582999998, 
+                    40.101148409999965
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 26, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.10114841, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Ann Kids", 
+                "address": "10100 Jamison Ave, Philadelphia, PA, 19116", 
+                "map_type": "bing", 
+                "map_longit": -75.02052583, 
+                "AUNumber": 326510175
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.345619, 
+                    40.101638
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.101638, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Hansell Child Care", 
+                "address": "720 Ford St, Bridgeport, PA, 19405", 
+                "map_type": "bing", 
+                "map_longit": -75.345619, 
+                "AUNumber": 300462780
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.33078565999999, 
+                    40.10354630999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.10354631, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Vantage Academy", 
+                "address": "633 E 4th St, Bridgeport, PA, 19405", 
+                "map_type": "bing", 
+                "map_longit": -75.33078566, 
+                "AUNumber": 323460114
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.91496413999998, 
+                    40.155247230000036
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 22, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.15524723, 
+                "IU": "Bucks County IU 22", 
+                "InstName": "Our Lady of Grace School", 
+                "address": "300 Hulmeville Ave, Penndel, PA, 19047", 
+                "map_type": "bing", 
+                "map_longit": -74.91496414, 
+                "AUNumber": 222095302
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.88630675999998, 
+                    40.18737793000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 22, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.18737793, 
+                "IU": "Bucks County IU 22", 
+                "InstName": "Kiddie Academy of Langhorne", 
+                "address": "670 Woodbourne Rd, Langhorne, PA, 19047", 
+                "map_type": "bing", 
+                "map_longit": -74.88630676, 
+                "AUNumber": 322090043
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.86690520999998, 
+                    40.20655060000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 22, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.2065506, 
+                "IU": "Bucks County IU 22", 
+                "InstName": "Motivational Ed Training Ctr", 
+                "address": "301 Oxford Valley Road, Yardley, PA, 19067", 
+                "map_type": "bing", 
+                "map_longit": -74.86690521, 
+                "AUNumber": 300091370
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.85473633, 
+                    40.216224669999924
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 22, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.21622467, 
+                "IU": "Bucks County IU 22", 
+                "InstName": "Kol Emet Preschool", 
+                "address": "1360 Oxford Valley Rd, Yardley, PA, 19067", 
+                "map_type": "bing", 
+                "map_longit": -74.85473633, 
+                "AUNumber": 322090001
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.862068, 
+                    40.224143
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.224143, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Learning and Sharing", 
+                "address": "335 Front St, New Cumberland, PA, 17070", 
+                "map_type": "bing", 
+                "map_longit": -76.862068, 
+                "AUNumber": 300213770
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.863311, 
+                    40.225429
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.225429, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Best Friends Day Care Center", 
+                "address": "206 Bridge St, New Cumberland, PA, 17070", 
+                "map_type": "bing", 
+                "map_longit": -76.863311, 
+                "AUNumber": 215211722
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.83915149999999, 
+                    40.231987239999945
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 22, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.23198724, 
+                "IU": "Bucks County IU 22", 
+                "InstName": "St Ignatius School", 
+                "address": "995 Reading Ave, Yardley, PA, 19067", 
+                "map_type": "bing", 
+                "map_longit": -74.8391515, 
+                "AUNumber": 222098002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.87412000999998, 
+                    40.23302257000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.23302257, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "St Theresa School", 
+                "address": "1200 Bridge St, New Cumberland, PA, 17070", 
+                "map_type": "bing", 
+                "map_longit": -76.87412001, 
+                "AUNumber": 215217403
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.837654, 
+                    40.238273
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 22, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.238273, 
+                "IU": "Bucks County IU 22", 
+                "InstName": "Abrams Hebrew Academy", 
+                "address": "31 W College Ave, Yardley, PA, 19067", 
+                "map_type": "bing", 
+                "map_longit": -74.837654, 
+                "AUNumber": 222090052
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.63708520999998, 
+                    40.24403773000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.24403773, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Hill School", 
+                "address": "717 East High St., Pottstown, PA, 19464", 
+                "map_type": "bing", 
+                "map_longit": -75.63708521, 
+                "AUNumber": 223469402
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.64936906, 
+                    40.25014579
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.25014579, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "St Aloysius", 
+                "address": "220 N. Hanover St., Pottstown, PA, 19464", 
+                "map_type": "bing", 
+                "map_longit": -75.64936906, 
+                "AUNumber": 223467312
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67533082999998, 
+                    40.25146879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.25146879, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Stowe Lighthouse Christ Acad", 
+                "address": "527 Glasgow Street, Stowe, PA, 19464", 
+                "map_type": "bing", 
+                "map_longit": -75.67533083, 
+                "AUNumber": 223469242
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.67482321999998, 
+                    40.25185771000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 23, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.25185771, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Progressions School", 
+                "address": "564 Glasgow Street, Pottstown, PA, 19464", 
+                "map_type": "bing", 
+                "map_longit": -75.67482322, 
+                "AUNumber": 323460012
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.81632980999997, 
+                    40.25759092999994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.25759093, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "St Catherine Laboure School", 
+                "address": "4020 Derry Street, Harrisburg, PA, 17111", 
+                "map_type": "bing", 
+                "map_longit": -76.81632981, 
+                "AUNumber": 215227203
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.77540806999998, 
+                    40.25871276999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.25871277, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Happy Heart Preschool & Kindergarten, LLC", 
+                "address": "1445 E Main St, Douglassville, PA, 19518", 
+                "map_type": "bing", 
+                "map_longit": -75.77540807, 
+                "AUNumber": 323460003
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.861862, 
+                    40.259185
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.259185, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Elevation Station", 
+                "address": "1622 Catherine Street, Harrisburg, PA, 17104", 
+                "map_type": "bing", 
+                "map_longit": -76.861862, 
+                "AUNumber": 215225379
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.885704, 
+                    40.260654
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.260654, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "St Stephens Episcopal School", 
+                "address": "215 N Front St, Harrisburg, PA, 17101", 
+                "map_type": "bing", 
+                "map_longit": -76.885704, 
+                "AUNumber": 215227753
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.842163, 
+                    40.260768
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.260768, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Alternative Rehabilitation Com", 
+                "address": "2600 Woodlawn Street, Harrisburg, PA, 17111", 
+                "map_type": "bing", 
+                "map_longit": -76.842163, 
+                "AUNumber": 300220200
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.71153724, 
+                    40.26246719000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.26246719, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Aa to Zz Child Care", 
+                "address": "205 S John St, Hummelstown, PA, 17036", 
+                "map_type": "bing", 
+                "map_longit": -76.71153724, 
+                "AUNumber": 315220115
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.81915282999996, 
+                    40.26285172000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.26285172, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Circle School", 
+                "address": "210 Oakleigh Ave, Harrisburg, PA, 17111", 
+                "map_type": "bing", 
+                "map_longit": -76.81915283, 
+                "AUNumber": 300671370
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.886383, 
+                    40.263767
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.263767, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Harrisburg Catholic Elementary School", 
+                "address": "212 State Street, Harrisburg, PA, 17101", 
+                "map_type": "bing", 
+                "map_longit": -76.886383, 
+                "AUNumber": 215221503
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.84468544999997, 
+                    40.26517152999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.26517153, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Harrisburg Catholic Elementary School", 
+                "address": "555 S. 25th Street, Harrisburg, PA, 17104", 
+                "map_type": "bing", 
+                "map_longit": -76.84468545, 
+                "AUNumber": 215222503
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.81708826, 
+                    40.26775450000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.2677545, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Live N Learn Smile Center Inc", 
+                "address": "326 W Main St, Birdsboro, PA, 19508", 
+                "map_type": "bing", 
+                "map_longit": -75.81708826, 
+                "AUNumber": 300063420
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.67168095999999, 
+                    40.270989239999984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.27098924, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "CCLC at Hershey", 
+                "address": "400 Center View Ln, Hershey, PA, 17033", 
+                "map_type": "bing", 
+                "map_longit": -76.67168096, 
+                "AUNumber": 300225920
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.873916, 
+                    40.274566
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.274566, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Hillside SDA School", 
+                "address": "1301 Cumberland St, Harrisburg, PA, 17103", 
+                "map_type": "bing", 
+                "map_longit": -76.873916, 
+                "AUNumber": 215222453
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.878875, 
+                    40.279338
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.279338, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Capital Academy", 
+                "address": "1745 N Cameron St, Harrisburg, PA, 17103", 
+                "map_type": "bing", 
+                "map_longit": -76.878875, 
+                "AUNumber": 315220004
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.65481253999997, 
+                    40.28052315
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.28052315, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "St Joan of Arc School", 
+                "address": "329 W Areba Ave, Hershey, PA, 17033", 
+                "map_type": "bing", 
+                "map_longit": -76.65481254, 
+                "AUNumber": 215227403
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.89088984999998, 
+                    40.281614140000016
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.28161414, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Nativity School of Harrisburg", 
+                "address": "2135 North Sixth Street, Harrisburg, PA, 17110", 
+                "map_type": "bing", 
+                "map_longit": -76.89088985, 
+                "AUNumber": 215220001
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.64822771999997, 
+                    40.28625034000004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 15, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.28625034, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Tender Years Inc", 
+                "address": "50 E Chocolate Ave, Hershey, PA, 17033", 
+                "map_type": "bing", 
+                "map_longit": -76.64822772, 
+                "AUNumber": 300229150
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.55218634999999, 
+                    40.30545428000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.30545428, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Seton Hill Univ Child Dev Ctr", 
+                "address": "1 Seton Hill Dr, Greensburg, PA, 15601", 
+                "map_type": "bing", 
+                "map_longit": -79.55218635, 
+                "AUNumber": 307650037
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.54590327999998, 
+                    40.30695430999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.30695431, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Aquinas Academy", 
+                "address": "340 N Main St, Greensburg, PA, 15601", 
+                "map_type": "bing", 
+                "map_longit": -79.54590328, 
+                "AUNumber": 207650205
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.38216716, 
+                    40.31502374
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.31502374, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Christ the Divine Teacher School", 
+                "address": "323 Chestnut St, Latrobe, PA, 15650", 
+                "map_type": "bing", 
+                "map_longit": -79.38216716, 
+                "AUNumber": 207652605
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.577438, 
+                    40.315986
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 13, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.315986, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "Sylvan Learning Center", 
+                "address": "1200 E Main St, Palmyra, PA, 17078", 
+                "map_type": "bing", 
+                "map_longit": -76.577438, 
+                "AUNumber": 313380000
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.38595242999999, 
+                    40.31807408
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.31807408, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Ligonier Valley Learning Center", 
+                "address": "320 McKinley Avenue, Latrobe, PA, 15650", 
+                "map_type": "bing", 
+                "map_longit": -79.38595243, 
+                "AUNumber": 307650030
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.932373, 
+                    40.318164
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.318164, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Alvernia Montessori School", 
+                "address": "211 Grace Street, Reading, PA, 19611", 
+                "map_type": "bing", 
+                "map_longit": -75.932373, 
+                "AUNumber": 300060250
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.337806, 
+                    40.318267
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.318267, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Grace Bible Academy", 
+                "address": "128 Bradenville School Road, Bradenville, PA, 15620", 
+                "map_type": "bing", 
+                "map_longit": -79.337806, 
+                "AUNumber": 207650002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.9385816, 
+                    40.318954509999955
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.31895451, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Northwestern Human Services", 
+                "address": "641 Gregg Avenue, Reading, PA, 19611", 
+                "map_type": "bing", 
+                "map_longit": -75.9385816, 
+                "AUNumber": 314060032
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.387977, 
+                    40.3194
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.3194, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Adelphoi Education Partial Hospitalization", 
+                "address": "310 Ligonier St, Latrobe, PA, 15650", 
+                "map_type": "bing", 
+                "map_longit": -79.387977, 
+                "AUNumber": 307655266
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.38959352999998, 
+                    40.32256207999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.32256208, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "New Horizons School", 
+                "address": "44 East Second Avenue, Latrobe, PA, 15650", 
+                "map_type": "bing", 
+                "map_longit": -79.38959353, 
+                "AUNumber": 300656450
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.944763, 
+                    40.324161
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.324161, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Berks Catholic High School", 
+                "address": "955 E Wyomissing Blvd, Reading, PA, 19611", 
+                "map_type": "bing", 
+                "map_longit": -75.944763, 
+                "AUNumber": 214062752
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.687339, 
+                    40.327537
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.327537, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "JB's Bright Beginnings", 
+                "address": "780 Brush Hill Rd, North Huntingdon, PA, 15642", 
+                "map_type": "bing", 
+                "map_longit": -79.687339, 
+                "AUNumber": 307650033
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.51274108999998, 
+                    40.329425809999954
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 13, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.32942581, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "Bright Beginnings Preschool", 
+                "address": "200 E Main St, Annville, PA, 17003", 
+                "map_type": "bing", 
+                "map_longit": -76.51274109, 
+                "AUNumber": 300388510
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.96113427999997, 
+                    40.33352829999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.3335283, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Yocum Inst for Arts Education", 
+                "address": "1100 Belmont Ave, Wyomissing, PA, 19610", 
+                "map_type": "bing", 
+                "map_longit": -75.96113428, 
+                "AUNumber": 300066600
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.952781, 
+                    40.335144
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.335144, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Sacred Heart School", 
+                "address": "701 Franklin St, West Reading, PA, 19611", 
+                "map_type": "bing", 
+                "map_longit": -75.952781, 
+                "AUNumber": 214067002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.434326, 
+                    40.336311
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 13, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.336311, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "Lebanon Catholic School", 
+                "address": "1400 Chestnut St, Lebanon, PA, 17042", 
+                "map_type": "bing", 
+                "map_longit": -76.434326, 
+                "AUNumber": 213383503
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.42810058999999, 
+                    40.340309140000045
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 13, 
+                "location_t": "RoadBlock", 
+                "type": "privateSchool", 
+                "map_latitu": 40.34030914, 
+                "IU": "Lancaster-Lebanon IU 13", 
+                "InstName": "New Generation Christian Acad", 
+                "address": "27-29 North 10th Street, Lebanon, PA, 17046", 
+                "map_type": "bing", 
+                "map_longit": -76.42810059, 
+                "AUNumber": 215224903
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.92599313999997, 
+                    40.340385359999964
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.34038536, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Center for Achievement", 
+                "address": "317 Power St, Johnstown, PA, 15901", 
+                "map_type": "bing", 
+                "map_longit": -78.92599314, 
+                "AUNumber": 308110135
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.955093, 
+                    40.344448
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.344448, 
+                "IU": "Berks County IU 14", 
+                "InstName": "New Story", 
+                "address": "345 N Wyomissing Blvd, Wyomissing, PA, 19610", 
+                "map_type": "bing", 
+                "map_longit": -75.955093, 
+                "AUNumber": 314060034
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.95849230999998, 
+                    40.34671335999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.34671336, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Kumon of Reading", 
+                "address": "840 N. Park Road, Wyomissing, PA, 19610", 
+                "map_type": "bing", 
+                "map_longit": -75.95849231, 
+                "AUNumber": 214062019
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.84387188999999, 
+                    40.37172428999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.37172429, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Virtuous Academy", 
+                "address": "One Library Place, Duquesne, PA, 15110", 
+                "map_type": "bing", 
+                "map_longit": -79.84387189, 
+                "AUNumber": 203020009
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.88527459, 
+                    40.39472826
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 11, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.39472826, 
+                "IU": "Tuscarora IU 11", 
+                "InstName": "Cedar Crest Baptist Academy", 
+                "address": "106 Pin Oak Lane, Mount Union, PA, 17066", 
+                "map_type": "bing", 
+                "map_longit": -77.88527459, 
+                "AUNumber": 211440010
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.92122971999997, 
+                    40.40367007
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "RoadIntersection", 
+                "type": "privateSchool", 
+                "map_latitu": 40.40367007, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Kidspeace National Centers", 
+                "address": "8th Ave & Hay Rd, Temple, PA, 19560", 
+                "map_type": "bing", 
+                "map_longit": -75.92122972, 
+                "AUNumber": 300066540
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.90463532999998, 
+                    40.40725417000005
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.40725417, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Ascension Sch of the Community", 
+                "address": "430 E 10th Ave, Munhall, PA, 15120", 
+                "map_type": "bing", 
+                "map_longit": -79.90463533, 
+                "AUNumber": 203020375
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.89019774999998, 
+                    40.42379761000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Postcode1", 
+                "type": "privateSchool", 
+                "map_latitu": 40.42379761, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Universal Academy of Pittsburgh", 
+                "address": "UAP P.O. BOX 82620, Pittsburgh, PA, 15218", 
+                "map_type": "bing", 
+                "map_longit": -79.89019775, 
+                "AUNumber": 202023515
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.94456938999998, 
+                    40.42543620000004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.4254362, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "St Rosalia Academy", 
+                "address": "411 Greenfield Ave, Pittsburgh, PA, 15207", 
+                "map_type": "bing", 
+                "map_longit": -79.94456939, 
+                "AUNumber": 202027945
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.88272703999998, 
+                    40.43482392999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.43482393, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Western PA School for Deaf", 
+                "address": "300 E Swissvale Ave, Pittsburgh, PA, 15218", 
+                "map_type": "bing", 
+                "map_longit": -79.88272704, 
+                "AUNumber": 300029840
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.88536096999998, 
+                    40.44015348
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44015348, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Sister Thea Bowman Catholic Academy", 
+                "address": "721 Rebecca Avenue, Wilkinsburg, PA, 15221", 
+                "map_type": "bing", 
+                "map_longit": -79.88536097, 
+                "AUNumber": 203020011
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.88279007, 
+                    40.44133767000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44133767, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Pittsburgh Urban Christian Sch", 
+                "address": "809 Center St, Pittsburgh, PA, 15221", 
+                "map_type": "bing", 
+                "map_longit": -79.88279007, 
+                "AUNumber": 202024675
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.994819, 
+                    40.44136
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44136, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Kinder Care Learning Center", 
+                "address": "600 Grant St, Pittsburgh, PA, 15219", 
+                "map_type": "bing", 
+                "map_longit": -79.994819, 
+                "AUNumber": 300025890
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.88421630999999, 
+                    40.4419136
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.4419136, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "PLEA School", 
+                "address": "733 South Ave, Pittsburgh, PA, 15221", 
+                "map_type": "bing", 
+                "map_longit": -79.88421631, 
+                "AUNumber": 303020074
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.897499, 
+                    40.444236
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.444236, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Shady Side Academy Junior Sch", 
+                "address": "400 S Braddock Ave, Pittsburgh, PA, 15221", 
+                "map_type": "bing", 
+                "map_longit": -79.897499, 
+                "AUNumber": 203025245
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.88292694, 
+                    40.44427871999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44427872, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Sonshine Christian Center", 
+                "address": "729 Wallace Ave., Pittsburgh, PA, 15221", 
+                "map_type": "bing", 
+                "map_longit": -79.88292694, 
+                "AUNumber": 203020006
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.976325, 
+                    40.44588
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44588, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Central Academy", 
+                "address": "2200 Wylie Ave, Pittsburgh, PA, 15219", 
+                "map_type": "bing", 
+                "map_longit": -79.976325, 
+                "AUNumber": 202021205
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.90392185999998, 
+                    40.44762141999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44762142, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Pittsburgh New Church School", 
+                "address": "299 Le Roi Rd, Pittsburgh, PA, 15208", 
+                "map_type": "bing", 
+                "map_longit": -79.90392186, 
+                "AUNumber": 202024645
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.92929076999997, 
+                    40.45036315999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.45036316, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Kentucky Avenue Childrens Center", 
+                "address": "5701 Fifth Avenue, Pittsburgh, PA, 15232", 
+                "map_type": "bing", 
+                "map_longit": -79.92929077, 
+                "AUNumber": 300029255
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.930297, 
+                    40.451446
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.451446, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "University School", 
+                "address": "5711 Howe St, Pittsburgh, PA, 15232", 
+                "map_type": "bing", 
+                "map_longit": -79.930297, 
+                "AUNumber": 300028890
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.942176, 
+                    40.451538
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.451538, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Winchester Thurston School", 
+                "address": "555 Morewood Ave, Pittsburgh, PA, 15213", 
+                "map_type": "bing", 
+                "map_longit": -79.942176, 
+                "AUNumber": 202029805
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.919006, 
+                    40.453365
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.453365, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Ellis School", 
+                "address": "6425 5th Ave, Pittsburgh, PA, 15206", 
+                "map_type": "bing", 
+                "map_longit": -79.919006, 
+                "AUNumber": 202028805
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.954437, 
+                    40.455272
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.455272, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Small Wonders at UPMC", 
+                "address": "425 N Craig St, Pittsburgh, PA, 15213", 
+                "map_type": "bing", 
+                "map_longit": -79.954437, 
+                "AUNumber": 302020000
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.980972, 
+                    40.456367
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.456367, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Easter Seals of Western and Central PA", 
+                "address": "2525 Railroad Street, Pittsburgh, PA, 15222", 
+                "map_type": "bing", 
+                "map_longit": -79.980972, 
+                "AUNumber": 300020400
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.81920922, 
+                    40.45639560000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.4563956, 
+                "IU": "Berks County IU 14", 
+                "InstName": "St Pauls United Church of Christ School", 
+                "address": "5 West Arch Street, Fleetwood, PA, 19522", 
+                "map_type": "bing", 
+                "map_longit": -75.81920922, 
+                "AUNumber": 214060004
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.92369777999998, 
+                    40.45647472000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.45647472, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Sacred Heart Elementary School", 
+                "address": "325 Emerson Street, Pittsburgh, PA, 15206", 
+                "map_type": "bing", 
+                "map_longit": -79.92369778, 
+                "AUNumber": 202024855
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.99937698, 
+                    40.45678853999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.45678854, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "AGH Center for Children", 
+                "address": "621 E North Ave, Pittsburgh, PA, 15212", 
+                "map_type": "bing", 
+                "map_longit": -79.99937698, 
+                "AUNumber": 300020180
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.9234423, 
+                    40.45695751999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.45695752, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "DePaul Institute", 
+                "address": "6202 Alder St, Pittsburgh, PA, 15206", 
+                "map_type": "bing", 
+                "map_longit": -79.9234423, 
+                "AUNumber": 300022250
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.025962, 
+                    40.458442
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.458442, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Greater Allen Christian Academy", 
+                "address": "1810 Fulton Street, Pittsburgh, PA, 15233", 
+                "map_type": "bing", 
+                "map_longit": -80.025962, 
+                "AUNumber": 202020001
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.931701, 
+                    40.461257
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.461257, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Watson Institute Friendship Academy (The)", 
+                "address": "255 S Negley Avenue, Pittsburgh, PA, 15206", 
+                "map_type": "bing", 
+                "map_longit": -79.931701, 
+                "AUNumber": 300029270
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.94794294, 
+                    40.46143144
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.46143144, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Saint Maria Goretti", 
+                "address": "321 Edmond Street, Pittsburgh, PA, 15224", 
+                "map_type": "bing", 
+                "map_longit": -79.94794294, 
+                "AUNumber": 202023425
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.945106, 
+                    40.462062
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.462062, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Its A Small World", 
+                "address": "4900 Friendship Ave, Pittsburgh, PA, 15224", 
+                "map_type": "bing", 
+                "map_longit": -79.945106, 
+                "AUNumber": 300025180
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.03005675999998, 
+                    40.46622253999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.46622254, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Pressley Ridge Career Development Center", 
+                "address": "1450 Ingham St, Pittsburgh, PA, 15212", 
+                "map_type": "bing", 
+                "map_longit": -80.03005676, 
+                "AUNumber": 302020059
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.97618866, 
+                    40.48025893999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.48025894, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Adelphoi Elementary at Millvale", 
+                "address": "608 Farragut St, Pittsburgh, PA, 15209", 
+                "map_type": "bing", 
+                "map_longit": -79.97618866, 
+                "AUNumber": 303020086
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.90081921, 
+                    40.490710439999965
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.49071044, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Christ the Divine Tchr Cath Ac", 
+                "address": "205 Brilliant Ave, Pittsburgh, PA, 15215", 
+                "map_type": "bing", 
+                "map_longit": -79.90081921, 
+                "AUNumber": 203027965
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.93179670999997, 
+                    40.495218559999984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.49521856, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "LEAP Preschool", 
+                "address": "200 Linden St, Pittsburgh, PA, 15215", 
+                "map_type": "bing", 
+                "map_longit": -79.93179671, 
+                "AUNumber": 303020014
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.93179670999997, 
+                    40.495218559999984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.49521856, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Watson Institute Social Center for Academic Achievement", 
+                "address": "200 Linden Ave., Pittsburgh, PA, 15215", 
+                "map_type": "bing", 
+                "map_longit": -79.93179671, 
+                "AUNumber": 302020013
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.73684662999999, 
+                    40.497600359999986
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.49760036, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Sunny Meadow Mennonite School", 
+                "address": "750 Kohler Rd, Kutztown, PA, 19530", 
+                "map_type": "bing", 
+                "map_longit": -75.73684663, 
+                "AUNumber": 214068022
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.05785718999998, 
+                    40.49794704
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.49794704, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Assumption School", 
+                "address": "35 N Jackson Ave, Pittsburgh, PA, 15202", 
+                "map_type": "bing", 
+                "map_longit": -80.05785719, 
+                "AUNumber": 203020405
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.84534577, 
+                    40.50413154000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.50413154, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Riverview Childrens Center Inc", 
+                "address": "655 Sylvan Way, Verona, PA, 15147", 
+                "map_type": "bing", 
+                "map_longit": -79.84534577, 
+                "AUNumber": 300029640
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.09972714, 
+                    40.51102549
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51102549, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Holy Family Academy", 
+                "address": "8235 Ohio River Boulevard, Pittsburgh, PA, 15202", 
+                "map_type": "bing", 
+                "map_longit": -80.09972714, 
+                "AUNumber": 203027948
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.39548908, 
+                    40.513310059999945
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51331006, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Great Commission Schools", 
+                "address": "1100 6th Ave, Altoona, PA, 16602", 
+                "map_type": "bing", 
+                "map_longit": -78.39548908, 
+                "AUNumber": 208071855
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.13809203999999, 
+                    40.51486969
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "RoadBlock", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51486969, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Redeemer Lutheran Sch-Oakmont", 
+                "address": "700 Idaho Avenue, Pittsburgh, PA, 15147", 
+                "map_type": "bing", 
+                "map_longit": -80.13809204, 
+                "AUNumber": 203024715
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.55343627999999, 
+                    40.51511001999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 21, 
+                "location_t": "RoadBlock", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51511002, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Devine School", 
+                "address": "153 Lumber Street, Macungie, PA, 18062", 
+                "map_type": "bing", 
+                "map_longit": -75.55343628, 
+                "AUNumber": 321390009
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.39640573, 
+                    40.51519297
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51519297, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Northwestern Human Svcs Autism School", 
+                "address": "1012 8th Ave, Altoona, PA, 16602", 
+                "map_type": "bing", 
+                "map_longit": -78.39640573, 
+                "AUNumber": 308070003
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.40297914999996, 
+                    40.51548064000005
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51548064, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Champion Life Christian Academy", 
+                "address": "1311 12th Avenue, Altoona, PA, 16601", 
+                "map_type": "bing", 
+                "map_longit": -78.40297915, 
+                "AUNumber": 208070002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.559738, 
+                    40.51828
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 21, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51828, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "First Impressions Child Care Center, Inc.", 
+                "address": "131 W Main St, Macungie, PA, 18062", 
+                "map_type": "bing", 
+                "map_longit": -75.559738, 
+                "AUNumber": 321390001
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.38902830999997, 
+                    40.5187328199999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.51873282, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Faith Tabernacle School", 
+                "address": "439 5th Ave, Altoona, PA, 16602", 
+                "map_type": "bing", 
+                "map_longit": -78.38902831, 
+                "AUNumber": 208071405
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.184509, 
+                    40.521366
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.521366, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Carol Leone Child Care & Dev Ctr", 
+                "address": "551 Thorn Run Rd, Moon Township, PA, 15108", 
+                "map_type": "bing", 
+                "map_longit": -80.184509, 
+                "AUNumber": 300021660
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.51605987999999, 
+                    40.52519608
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 21, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.52519608, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Premier Child Care Center Inc", 
+                "address": "3853 Allen St, Emmaus, PA, 18049", 
+                "map_type": "bing", 
+                "map_longit": -75.51605988, 
+                "AUNumber": 300395850
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.49217484999998, 
+                    40.52833713999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 21, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.52833714, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "St Ann School", 
+                "address": "435 S 6th St, Emmaus, PA, 18049", 
+                "map_type": "bing", 
+                "map_longit": -75.49217485, 
+                "AUNumber": 221397202
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.49396991999998, 
+                    40.53285398000005
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 21, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.53285398, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Active Learning Center", 
+                "address": "544 Jubilee St, Emmaus, PA, 18049", 
+                "map_type": "bing", 
+                "map_longit": -75.49396992, 
+                "AUNumber": 321390537
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.186126, 
+                    40.534942
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.534942, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Montessori Childrens Community", 
+                "address": "474 Chadwick St, Sewickley, PA, 15143", 
+                "map_type": "bing", 
+                "map_longit": -80.186126, 
+                "AUNumber": 300026470
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18358639999998, 
+                    40.53759008999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.53759009, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "St James School", 
+                "address": "201 Broad St, Sewickley, PA, 15143", 
+                "map_type": "bing", 
+                "map_longit": -80.1835864, 
+                "AUNumber": 203026565
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18407188, 
+                    40.53882591000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.53882591, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Noahs Ark Preschool/St Stephen Kindergarten", 
+                "address": "405 Frederick Avenue, Sewickley, PA, 15143", 
+                "map_type": "bing", 
+                "map_longit": -80.18407188, 
+                "AUNumber": 203024335
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.80379432, 
+                    40.54100252999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.54100253, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Valley Community Services", 
+                "address": "1216 Pittsburgh St, Cheswick, PA, 15024", 
+                "map_type": "bing", 
+                "map_longit": -79.80379432, 
+                "AUNumber": 300029710
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.80051934999999, 
+                    40.54129623
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.54129623, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Cheswick Christian Academy", 
+                "address": "1407 Pittsburgh St, Cheswick, PA, 15024", 
+                "map_type": "bing", 
+                "map_longit": -79.80051935, 
+                "AUNumber": 203020255
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18963612999997, 
+                    40.54375984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.54375984, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Sewickley Academy", 
+                "address": "315 Academy Ave, Sewickley, PA, 15143", 
+                "map_type": "bing", 
+                "map_longit": -80.18963613, 
+                "AUNumber": 203025225
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.56394196, 
+                    40.57810211000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 28, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.57810211, 
+                "IU": "ARIN IU 28", 
+                "InstName": "Ronnie Lyn Stefaniak Nursery School", 
+                "address": "601 Highland Ave, Apollo, PA, 15613", 
+                "map_type": "bing", 
+                "map_longit": -79.56394196, 
+                "AUNumber": 300036250
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.58432007, 
+                    40.59098815999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 11, 
+                "location_t": "Postcode1", 
+                "type": "privateSchool", 
+                "map_latitu": 40.59098816, 
+                "IU": "Tuscarora IU 11", 
+                "InstName": "Sacred Heart of Jesus School", 
+                "address": "xx, Lewistown, PA, 17044", 
+                "map_type": "bing", 
+                "map_longit": -77.58432007, 
+                "AUNumber": 211447003
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.45722029999999, 
+                    40.5924996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 21, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.5924996, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Mercy Special Learning Center", 
+                "address": "830 S Woodward St, Allentown, PA, 18103", 
+                "map_type": "bing", 
+                "map_longit": -75.4572203, 
+                "AUNumber": 221394002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.571289, 
+                    40.597713
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.597713, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Small World Daycare Preschool", 
+                "address": "315 Walnut St, Vandergrift, PA, 15690", 
+                "map_type": "bing", 
+                "map_longit": -79.571289, 
+                "AUNumber": 307650040
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.5646432, 
+                    40.60003794999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 7, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.60003795, 
+                "IU": "Westmoreland IU 7", 
+                "InstName": "Cardinal Maida Academy", 
+                "address": "315 Franklin Avenue, Vandergrift, PA, 15690", 
+                "map_type": "bing", 
+                "map_longit": -79.5646432, 
+                "AUNumber": 207658105
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.22501110999997, 
+                    40.60212672
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 27, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.60212672, 
+                "IU": "Beaver Valley IU 27", 
+                "InstName": "Watson Institute Behavior Support Academy", 
+                "address": "2001 Lenz Avenue, Ambridge, PA, 15003", 
+                "map_type": "bing", 
+                "map_longit": -80.22501111, 
+                "AUNumber": 303020081
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.376075, 
+                    40.61082
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.61082, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Holy Infancy School", 
+                "address": "127 E 4th St, Bethlehem, PA, 18015", 
+                "map_type": "bing", 
+                "map_longit": -75.376075, 
+                "AUNumber": 220482752
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.24763687999999, 
+                    40.616208309999976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 27, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.61620831, 
+                "IU": "Beaver Valley IU 27", 
+                "InstName": "Hope Christian Academy", 
+                "address": "434 Franklin Avenue, Aliquippa, PA, 15001", 
+                "map_type": "bing", 
+                "map_longit": -80.24763688, 
+                "AUNumber": 227040001
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.380226, 
+                    40.619419
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.619419, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Moravian Academy Lower School", 
+                "address": "422 Heckewelder Pl, Bethlehem, PA, 18018", 
+                "map_type": "bing", 
+                "map_longit": -75.380226, 
+                "AUNumber": 220484002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.72672104999998, 
+                    40.6198065
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.6198065, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Our Lady Most Blessed Sacramnt", 
+                "address": "800 Montana Avenue, Natrona Heights, PA, 15065", 
+                "map_type": "bing", 
+                "map_longit": -79.72672105, 
+                "AUNumber": 203020605
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.72672104999998, 
+                    40.6198065
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.6198065, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "St Joseph High School", 
+                "address": "800 Montana Ave, Natrona Heights, PA, 15065", 
+                "map_type": "bing", 
+                "map_longit": -79.72672105, 
+                "AUNumber": 203026785
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.37898696999999, 
+                    40.620639990000015
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.62063999, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Moravian Academy Middle School", 
+                "address": "11 W Market St, Bethlehem, PA, 18018", 
+                "map_type": "bing", 
+                "map_longit": -75.37898697, 
+                "AUNumber": 220483972
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.38194008, 
+                    40.62159352
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 20, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.62159352, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Buxmont Academy", 
+                "address": "544 Main Street (Rear), Bethlehem, PA, 18018", 
+                "map_type": "bing", 
+                "map_longit": -75.38194008, 
+                "AUNumber": 300391080
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.36547, 
+                    40.622421
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.622421, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Bethlehem Academy", 
+                "address": "529 E. Broad Street, Bethlehem, PA, 18018", 
+                "map_type": "bing", 
+                "map_longit": -75.36547, 
+                "AUNumber": 220480000
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.242462, 
+                    40.67332
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 8, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.67332, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "St Matthew School", 
+                "address": "1105 Cameron Ave, Tyrone, PA, 16686", 
+                "map_type": "bing", 
+                "map_longit": -78.242462, 
+                "AUNumber": 208077805
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.21317013, 
+                    40.69179966999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "RoadIntersection", 
+                "type": "privateSchool", 
+                "map_latitu": 40.69179967, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Rock Christian Academy", 
+                "address": "5th & Church Sts, Easton, PA, 18042", 
+                "map_type": "bing", 
+                "map_longit": -75.21317013, 
+                "AUNumber": 220486002
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.298336, 
+                    40.699306499999985
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 27, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.6993065, 
+                "IU": "Beaver Valley IU 27", 
+                "InstName": "Sts Peter & Paul School", 
+                "address": "370 East End Avenue, Beaver, PA, 15009", 
+                "map_type": "bing", 
+                "map_longit": -80.298336, 
+                "AUNumber": 227048205
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.31827151999998, 
+                    40.75099534999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 27, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.75099535, 
+                "IU": "Beaver Valley IU 27", 
+                "InstName": "Saint Monica Catholic Academy", 
+                "address": "609 10th St, Beaver Falls, PA, 15010", 
+                "map_type": "bing", 
+                "map_longit": -80.31827152, 
+                "AUNumber": 227047605
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.326454, 
+                    40.77848
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 27, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.77848, 
+                "IU": "Beaver Valley IU 27", 
+                "InstName": "Beaver Co Christian Sch -Upper", 
+                "address": "510 37th Street, Beaver Falls, PA, 15010", 
+                "map_type": "bing", 
+                "map_longit": -80.326454, 
+                "AUNumber": 227040805
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.33943175999998, 
+                    40.77870178
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 27, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.77870178, 
+                "IU": "Beaver Valley IU 27", 
+                "InstName": "Beaver Co Christian -W Park El", 
+                "address": "3601 Short St, Beaver Falls, PA, 15010", 
+                "map_type": "bing", 
+                "map_longit": -80.33943176, 
+                "AUNumber": 227040835
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.08476845999998, 
+                    42.12353133
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.12353133, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "St Peter Cathedral School", 
+                "address": "160 West 11th St., Erie, PA, 16501", 
+                "map_type": "bing", 
+                "map_longit": -80.08476846, 
+                "AUNumber": 205258904
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.08768267999997, 
+                    42.12487042
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.12487042, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "Erie Catholic Preparatory School", 
+                "address": "225 W. 9th Street, Erie, PA, 16501", 
+                "map_type": "bing", 
+                "map_longit": -80.08768268, 
+                "AUNumber": 205250012
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.057151, 
+                    42.135753
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.135753, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "Holy Family School", 
+                "address": "1153 East Ninth St., Erie, PA, 16503", 
+                "map_type": "bing", 
+                "map_longit": -80.057151, 
+                "AUNumber": 205252604
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.02116858999999, 
+                    42.13760353999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.13760354, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "St James School", 
+                "address": "2602 Buffalo Rd., Erie, PA, 16510", 
+                "map_type": "bing", 
+                "map_longit": -80.02116859, 
+                "AUNumber": 205257904
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.051315, 
+                    42.139564
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.139564, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "Boys & Girls Club", 
+                "address": "1515 E Lake Rd, Erie, PA, 16511", 
+                "map_type": "bing", 
+                "map_longit": -80.051315, 
+                "AUNumber": 305250036
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.01239777, 
+                    42.141541689999976
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.14154169, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "Wesleyville Baptsit Church Preschool", 
+                "address": "3509 Buffalo Road, Erie, PA, 16510", 
+                "map_type": "bing", 
+                "map_longit": -80.01239777, 
+                "AUNumber": 205250011
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.97592162999999, 
+                    42.16556168000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.16556168, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "Harborcreek Youth Services", 
+                "address": "5712 Iroquois Ave, Harborcreek, PA, 16421", 
+                "map_type": "bing", 
+                "map_longit": -79.97592163, 
+                "AUNumber": 205252504
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.844436, 
+                    42.21413
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "Address", 
+                "type": "privateSchool", 
+                "map_latitu": 42.21413, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "St Gregory School", 
+                "address": "140 West Main St., North East, PA, 16428", 
+                "map_type": "bing", 
+                "map_longit": -79.844436, 
+                "AUNumber": 205257704
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.362144, 
+                    39.864355
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 39.864355, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "DREXEL NEUMANN ACADEMY", 
+                "address": "1901 POTTER STREET, CHESTER, PA, 19013", 
+                "map_type": "mapquest", 
+                "map_longit": -75.362144, 
+                "AUNumber": 225230008
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.31008585999999, 
+                    39.90012003999995
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 25, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 39.90012004, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Art of Growing", 
+                "address": "375 Holmes Rd, Holmes, PA, 19043", 
+                "map_type": "mapquest", 
+                "map_longit": -75.31008586, 
+                "AUNumber": 300230220
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.24198785999998, 
+                    39.9202892899999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 39.92028929, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "Greater Hope Christian Academy", 
+                "address": "7029 Woodland Ave, Philadelphia, PA, 19142", 
+                "map_type": "mapquest", 
+                "map_longit": -75.24198786, 
+                "AUNumber": 226511922
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.18025789999997, 
+                    39.986345
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "primary", 
+                "type": "privateSchool", 
+                "map_latitu": 39.986345, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "White Dove Performing Arts Acad", 
+                "address": "2510 Ridge Avenue, Philadelphia, PA, 19121", 
+                "map_type": "mapquest", 
+                "map_longit": -75.1802579, 
+                "AUNumber": 226510008
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.58647489999998, 
+                    40.01806859999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 1, 
+                "location_t": "secondary", 
+                "type": "privateSchool", 
+                "map_latitu": 40.0180686, 
+                "IU": "Intermediate Unit 1", 
+                "InstName": "Geibel Catholic Junior-Senior High School", 
+                "address": "611 E. Crawford Ave., Connellsville, PA, 15425", 
+                "map_type": "mapquest", 
+                "map_longit": -79.5864749, 
+                "AUNumber": 201262505
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16391526999998, 
+                    40.02658658
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 26, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.02658658, 
+                "IU": "Philadelphia IU 26", 
+                "InstName": "DePaul Catholic School", 
+                "address": "44 W Logan St, Philadelphia, PA, 19144", 
+                "map_type": "mapquest", 
+                "map_longit": -75.16391527, 
+                "AUNumber": 226517602
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.60455746999999, 
+                    40.24412311000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 23, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.24412311, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Goddard School", 
+                "address": "2074 East High Street, Sanatoga, PA, 19464", 
+                "map_type": "mapquest", 
+                "map_longit": -75.60455747, 
+                "AUNumber": 300462580
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.937985, 
+                    40.317248
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 14, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.317248, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Opportunities", 
+                "address": "700 E. Lancaster Avenue, Reading, PA, 19607", 
+                "map_type": "mapquest", 
+                "map_longit": -75.937985, 
+                "AUNumber": 314060009
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.82412809999998, 
+                    40.32546069999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 3, 
+                "location_t": "school", 
+                "type": "privateSchool", 
+                "map_latitu": 40.3254607, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "St Anthony School Programs at Serra Catholic HS", 
+                "address": "Serra Catholic High School, McKeesport, PA, 15132", 
+                "map_type": "mapquest", 
+                "map_longit": -79.8241281, 
+                "AUNumber": 202025475
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.93269794, 
+                    40.33365380999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.33365381, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Cabrini Academy", 
+                "address": "240 Franklin St, Reading, PA, 19602", 
+                "map_type": "mapquest", 
+                "map_longit": -75.93269794, 
+                "AUNumber": 214062772
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.97068561, 
+                    40.449150259999975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 2, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.44915026, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "St Benedict the Moor", 
+                "address": "631 Watt Street, Pittsburgh, PA, 15219", 
+                "map_type": "mapquest", 
+                "map_longit": -79.97068561, 
+                "AUNumber": 202027885
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.02321502999999, 
+                    40.45568754
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 2, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.45568754, 
+                "IU": "Pittsburgh-Mt Oliver IU 2", 
+                "InstName": "Training Wheels", 
+                "address": "1214 Liverpool St, Pittsburgh, PA, 15233", 
+                "map_type": "mapquest", 
+                "map_longit": -80.02321503, 
+                "AUNumber": 300028830
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.58643464999999, 
+                    40.46446027999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 8, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.46446028, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "All Saints Catholic School", 
+                "address": "220 Powell Ave, Cresson, PA, 16630", 
+                "map_type": "mapquest", 
+                "map_longit": -78.58643465, 
+                "AUNumber": 208117805
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.49972789999997, 
+                    40.526153
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 21, 
+                "location_t": "residential", 
+                "type": "privateSchool", 
+                "map_latitu": 40.526153, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Hildebrandt Learning Center", 
+                "address": "420 S 10th St, Emmaus, PA, 18049", 
+                "map_type": "mapquest", 
+                "map_longit": -75.4997279, 
+                "AUNumber": 300393120
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.18395127, 
+                    40.53859559
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 3, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.53859559, 
+                "IU": "Allegheny IU 3", 
+                "InstName": "Laughlin Childrens Center", 
+                "address": "424 Frederick Ave, Sewickley, PA, 15143", 
+                "map_type": "mapquest", 
+                "map_longit": -80.18395127, 
+                "AUNumber": 300025470
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.47414724999999, 
+                    40.57114729
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 21, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.57114729, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Little People Day Care School", 
+                "address": "2310 S 12th St, Allentown, PA, 18103", 
+                "map_type": "mapquest", 
+                "map_longit": -75.47414725, 
+                "AUNumber": 300394520
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.392637, 
+                    40.62259928999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.62259929, 
+                "IU": "Colonial IU 20", 
+                "InstName": "Seton Academy", 
+                "address": "714 W. Broad Street, Bethlehem, PA, 18018", 
+                "map_type": "mapquest", 
+                "map_longit": -75.392637, 
+                "AUNumber": 300397500
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.22602391999999, 
+                    40.688393419999954
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 20, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 40.68839342, 
+                "IU": "Colonial IU 20", 
+                "InstName": "School of Creative Arts", 
+                "address": "120 S. 12th Street, Easton, PA, 18042", 
+                "map_type": "mapquest", 
+                "map_longit": -75.22602392, 
+                "AUNumber": 220480008
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.08627454, 
+                    42.12297942999994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 5, 
+                "location_t": "house", 
+                "type": "privateSchool", 
+                "map_latitu": 42.12297943, 
+                "IU": "Northwest Tri-County IU 5", 
+                "InstName": "Luther Memorial Academy", 
+                "address": "220 W 11th St, Erie, PA, 16501", 
+                "map_type": "mapquest", 
+                "map_longit": -80.08627454, 
+                "AUNumber": 300253780
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.378236, 
+                    39.838131
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 25, 
+                "location_t": "street_address", 
+                "type": "privateSchool", 
+                "map_latitu": 39.838131, 
+                "IU": "Delaware County IU 25", 
+                "InstName": "Center for Self Development", 
+                "address": "1605 West Third Street, Chester, PA, 19013", 
+                "map_type": "google", 
+                "map_longit": -75.378236, 
+                "AUNumber": 225231632
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.524332, 
+                    40.519805
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 21, 
+                "location_t": "street_address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.519805, 
+                "IU": "Carbon-Lehigh IU 21", 
+                "InstName": "Emmaus Baptist Academy", 
+                "address": "4702 Colebrook Avenue, Emmaus, PA, 18049", 
+                "map_type": "google", 
+                "map_longit": -75.524332, 
+                "AUNumber": 221392302
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.23862439999998, 
+                    40.67061839999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 8, 
+                "location_t": "locality", 
+                "type": "privateSchool", 
+                "map_latitu": 40.6706184, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Grier School", 
+                "address": "PO Box 308, Tyrone, PA, 16686", 
+                "map_type": "google", 
+                "map_longit": -78.2386244, 
+                "AUNumber": 208312105
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.2690675, 
+                    40.0674347
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 23, 
+                "location_t": "street_address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.0674347, 
+                "IU": "Montgomery County IU 23", 
+                "InstName": "Miquon School", 
+                "address": "2025 Harts Lane, Conshohocken, PA, 19428", 
+                "map_type": "google", 
+                "map_longit": -75.2690675, 
+                "AUNumber": 223464502
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.79708659999999, 
+                    40.4720959
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 14, 
+                "location_t": "street_address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.4720959, 
+                "IU": "Berks County IU 14", 
+                "InstName": "Oak Haven School", 
+                "address": "144 Oak Haven Rd, Fleetwood, PA, 19522", 
+                "map_type": "google", 
+                "map_longit": -75.7970866, 
+                "AUNumber": 214064752
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.81773869999998, 
+                    40.24993640000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 15, 
+                "location_t": "street_address", 
+                "type": "privateSchool", 
+                "map_latitu": 40.2499364, 
+                "IU": "Capital Area IU 15", 
+                "InstName": "Samuel School", 
+                "address": "411 S. 40th Street, Harrisburg, PA, 17111", 
+                "map_type": "google", 
+                "map_longit": -76.8177387, 
+                "AUNumber": 215220009
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.04694969999998, 
+                    40.57256929999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Nonpublic, Non-Licensed School", 
+                "IUNumber": 11, 
+                "location_t": "locality", 
+                "type": "privateSchool", 
+                "map_latitu": 40.5725693, 
+                "IU": "Tuscarora IU 11", 
+                "InstName": "Shavers Creek Christian School", 
+                "address": "RR 2 Box 553, Petersburg, PA, 16669", 
+                "map_type": "google", 
+                "map_longit": -78.0469497, 
+                "AUNumber": 211318003
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.40421, 
+                    40.514713
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Category": "Licensed, Private Academic School", 
+                "IUNumber": 8, 
+                "location_t": "church", 
+                "type": "privateSchool", 
+                "map_latitu": 40.514713, 
+                "IU": "Appalachia IU 8", 
+                "InstName": "Tender Love for Children", 
+                "address": "First Lutheran Church, Altoona, PA, 16601", 
+                "map_type": "google", 
+                "map_longit": -78.40421, 
+                "AUNumber": 300077450
+            }
+        }
+    ]
+}
