@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cp /home/train-machine/code/trainProcessing/Makefile $1
+
+make -C $1
+
+rm $1/Makefile

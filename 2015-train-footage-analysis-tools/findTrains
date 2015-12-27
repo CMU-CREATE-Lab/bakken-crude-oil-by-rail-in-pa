@@ -1,0 +1,237 @@
+#!/usr/bin/python
+
+import trainUtil as util
+import sys, os
+import getopt, json
+
+def usage():
+    print("""findTrains [OPTION]... [INPUT] [DESTINATION] 
+
+    OPTIONs: [-p:s:e:dh]
+        -p, --params=PARAM          PARAM can be one of the following:
+                                        r - River Road footage
+                                        c - CIC footage
+                                        h - Homestead
+                                        s - Southside Court
+                                        p - Potter Street
+        -s, --start=START           START specifies the start time of a clip to 
+                                        be cut if the input type is single 
+                                        video and and end time is given. May 
+                                        be "mm:ss" or just the frame number
+        -e, --end=END               END specifies the end time of a clip to 
+                                        be cut if the input type is single 
+                                        video and and start time is given. May 
+                                        be "mm:ss" or just the frame number
+        -d, --debug                 only print the results without actually
+                                        cutting the clips or manipulating video
+        -h, --help                  print this help string
+
+    INPUTs: [-b:v:]
+        -b, --batch=BATCHPATH       process a batch of videos. BATCHPATH is a 
+                                        path containing a series of videos 
+                                        beginning with 00000.MTS and increasing 
+                                        numerically
+        -v, --video=VIDPATH         process a single video. VIDPATH is the path
+                                        to that video. This may cut off clips 
+                                        that begin before or after the end of 
+                                        the video
+
+    DESTINATION: [-o]
+        -o, --out=OUTPATH           the destination in which to deposit the cut
+                                        clips. Deafult is '~'""")
+
+def processVideo(dataPath, params):
+    data = json.load(open(dataPath))
+    values = data["values"]
+    frames = len(values)
+
+    (head, clips, tail, avgDiff) = util.analyzeData(values, params)
+    return (head, clips, tail, frames)
+
+
+def main():
+    debug = False
+    setting = None
+
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "b:v:o:p:s:e:dh", \
+            ["batch=", "video=", "out=", "params=", "start=", \
+            "end=", "debug", "help"])
+    except getopt.GetoptError as err:
+        print str(err) # will print something like "option -a not recognized"
+        usage()
+        sys.exit(2)
+
+    batchPath = None
+    vidPath = None
+    outPath = "~"
+    params = None
+    start = None
+    end = None
+    debug = False
+
+    for o, a in opts:
+        if o in ("-b", "--batch="):
+            batchPath = a
+        elif o in ("-v", "--video="):
+            vidPath = a
+            if batchPath:
+                print "cannot process batch and single video simultaneously"
+                usage()
+                sys.exit()
+        elif o in ("-o", "--out="):
+            outPath = a
+        elif o in ("-p", "--params="):
+            if a in ('r', 'c', 'h', 's', 'p'):
+                params = a
+            else:
+                print("invalid parameter setting")
+                usage()
+                sys.exit()
+        elif o in ("-s", "--start="):
+            if batchPath:
+                print "cannot specify start time for batch processing"
+                usage()
+                sys.exit()
+            if ':' in a:
+                start = util.calcFrame(a)
+            else:
+                start = int(a)
+        elif o in ("-e", "--end="):
+            if batchPath:
+                print "cannot specify end time for batch processing"
+                usage()
+                sys.exit()
+            if ':' in a:
+                end = util.calcFrame(a)
+            else:
+                end = int(a)
+        elif o in ("-d", "--debug"):
+            debug = True
+        elif o in ("-h", "--help"):
+            usage()
+            sys.exit()
+        else:
+            assert False, "unhandled option"
+
+    if not batchPath and not vidPath:
+        print "must specify either a batch directory or a video path"
+        usage()
+        sys.exit()
+
+    if (start != None and end == None) or (start == None and end != None):
+        print "must specify both start and end times to a manual cut"
+        usage()
+        sys.exit()
+
+    (_, _, _, _, minLength) = util.getParams(setting=params)
+
+    if batchPath:
+        print("processing batch at %s..." % batchPath)
+
+        head = None
+        headPath = None
+        headFrames = None
+
+        batch = util.findBatch(batchPath)
+        for n in range(len(batch)):
+            (tail, clips, newHead, frames) = \
+                processVideo(batchPath + "/data/%05d.json" % n, params)
+
+            vidPath = batchPath + ("/%05d.MTS" % n)
+
+            if head and tail:
+                if head[2] + tail[2] >= minLength:
+                    tag = util.getTag(headPath, head[0], headFrames)
+                    if debug:
+                        print("%20s  %20s  %02d" % \
+                            (tag, (head[0], tail[1], head[2] + tail[2]), n - 1))
+                    else:
+                        tmp1 = util.cut(headPath, tag + ".tmp1", head[0], head[1], '~')
+                        tmp2 = util.cut(vidPath, tag + ".tmp2", tail[0], tail[1], '~')
+                        util.combine(tmp1, tmp2, tag, outPath)
+
+            elif head:
+                if head[2] >= minLength:
+                    tag = util.getTag(headPath, head[0], headFrames)
+                    if debug:
+                        print("%20s  %20s  %02d" % (tag, head, n - 1))
+                    else:
+                        util.cut(headPath, tag, head[0], head[1], outPath)
+
+            elif tail:
+                if tail[2] >= minLength:
+                    tag = util.getTag(vidPath, tail[0], frames)
+                    if debug:
+                        print("%20s  %20s  %02d" % (tag, tail, n))
+                    else:
+                        util.cut(vidPath, tag, tail[0], tail[1], outPath)
+
+            for clip in clips:
+                if clip[2] >= minLength:
+                    tag = util.getTag(vidPath, clip[0], frames)
+                    if debug:
+                        print("%20s  %20s  %02d" % (tag, clip, n))
+                    else:
+                        util.cut(vidPath, tag, clip[0], clip[1], outPath)
+
+            head = newHead
+            headPath = vidPath
+            headFrames = frames
+
+        if head:
+            if head[2] >= minLength:
+                tag = util.getTag(headPath, head[0], headFrames)
+                if debug:
+                    print("%20s  %20s  %02d" % (tag, head, n - 1))
+                else:
+                    util.cut(headPath, tag, head[0], head[1], outPath)
+
+    else:
+        print("processing single video: %s..." % vidPath)
+
+        dataPath = vidPath[:-9] + "data/" + vidPath[-9:-4] + ".json"
+
+        (tail, clips, head, frames) = processVideo(dataPath, params)
+
+        if (start != None) and (end != None):
+            tag = util.getTag(vidPath, util.timestamp(start), frames)
+            if debug:
+                print("%20s" % tag)
+            else:
+                util.cut(vidPath, tag, util.timestamp(start), \
+                    util.timestamp(end), outPath)
+
+        else:
+            if tail:
+                if tail[2] >= minLength:
+                    tag = util.getTag(vidPath, tail[0], frames)
+                    if debug:
+                        print("%20s  %20s  %02d" % (tag, tail, n))
+                    else:
+                        util.cut(vidPath, tag, tail[0], tail[1], outPath)
+
+            for clip in clips:
+                if clip[2] >= minLength:
+                    tag = util.getTag(vidPath, clip[0], frames)
+                    if debug:
+                        print("%20s  %20s  %02d" % (tag, clip, n))
+                    else:
+                        util.cut(vidPath, tag, clip[0], clip[1], outPath)
+
+            if head:
+                if head[2] >= minLength:
+                    tag = util.getTag(vidPath, head[0], frames)
+                    if debug:
+                        print("%20s  %20s  %02d" % (tag, head, n))
+                    else:
+                        util.cut(vidPath, tag, head[0], head[1], outPath)
+
+    print("Depositing clips in %s..." % outPath)
+    print("Processing complete!")
+    sys.exit(0)
+
+
+if __name__ == "__main__":
+    main()
+        
