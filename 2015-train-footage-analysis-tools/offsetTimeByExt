@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Offsets the Last Modified timestamps of a series of MTS files
+#
+# USAGE:
+#   $ offsetTime DIR EXT SECONDS
+#
+#   DIR is the directory where the files are located
+#   EXT is the extension of the file type you wish to offset
+#   SECONDS is the number of seconds to offset the timestamp by
+
+for file in $(find $1 -name "*.$2") ; do
+    touch -m -d @$(( $(stat -c %Y "$file") + $3 )) "$file"
+done

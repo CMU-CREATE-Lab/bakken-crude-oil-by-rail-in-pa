@@ -1,7 +1,15 @@
 #!/bin/bash
 
-cp /home/train-machine/code/trainProcessing/Makefile $1
+# This script copies the Makefile file into a given directory and runs it.
+# It's pretty dumb, but it was convenient to me.
+
+# USAGE:
+#   $ runFilter DIR
+
+# Where:
+#   DIR is the directory with the video files
+
+cp Makefile $1
 
 make -C $1
 
-rm $1/Makefile
