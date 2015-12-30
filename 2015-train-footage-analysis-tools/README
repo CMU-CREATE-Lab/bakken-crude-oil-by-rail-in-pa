@@ -1,0 +1,140 @@
+INTRODUCTION
+------------
+
+The train footage analysis tools are a few pieces of code that were written to 
+process all of the many hours of footage fo train tracks that we had during 
+CREATE Lab's Oil Train Project in the summer and fall of 2015. The code was 
+written by Jake Klingensmith and the project overseen by Jake and Randy Sargent. 
+
+This README will explain each piece of code briefly and describe how they
+function together and explain how it could be retooled for a new context.
+
+
+
+CODE
+----
+
+There are three smaller shell scripts in this folder:
+
+runFilter
+Makefile
+offsetTimeByExt
+
+    - runFilter is a 2-line shell script I used for convenience. It copies the
+    Makefile into a directory and then runs make. It does nothing else.
+
+    - Makefile is a context specific recipe for constructing json data files
+    out of .MTS video files. It uses the thumbnail server difference filter.
+    It is specifically written to work ONLY on .MTS video files. Additionally,
+    it REQUIRES that difference-filter be located in ~/tmThumbnail/filters/
+    To use on a different video format, change all instances of ".MTS" to the
+    desired extension. To adjust the location of the difference-filter command,
+    change "~/tmThumbnail/filters/difference-filter" to the desired location of 
+    the command
+
+    - offsetTimeByExt is a tool that adjusts the last modified timestamp of all 
+    videos of a specific file extension in a desired location. It was very useful 
+    for when the camera's clock was set incorrectly.
+
+There are two larger Python files in this folder:
+
+trainUtil.py
+findTrains
+
+    - trainUtil.py contains the utility functions for the findTrains executable.
+    It processes the data files created by the Makefile and runs ffmpeg to cut
+    out and stitch together segments into full train clips. It also contains
+    the control function (getParams) that sets the parameters for findTrains.
+
+    - findTrains is the executable python file that manages walking through each
+    clip and looking for train segments. It depends on the video files being 
+    sequqntially indexed and named to five digits (00001.MTS, 00002.MTS, ... 
+    00103.MTS, etc.) To search a batch of videos like this, use the flag -b for 
+    batch followed by the folder containing the batch. It also doubles as a 
+    precision tool for slicing specific chunks out of individual videos. To cut
+    a specific range out of a video, use the flag -v for video followed by the 
+    video file location. Then use the -s and -e flags to specify the start and 
+    end times for the segment you wish to isolate. See the usage string for more 
+    description.
+
+
+
+USE
+---
+
+This section describes how to use these tools to get a series of train clips 
+(or any other type of movement) out of a series of videos. 
+
+    1.  Calculate difference data for each video
+
+        This can be done using runFilter or by manually copying the Makefile into the
+        folder containing the videos and running make. It will result in a separate 
+        folder named data containing a .json file for every original video file.
+
+    2.  Find the optimal parameters for the video locations
+
+        Take a few video clips that you know contain trains. Mark down the start
+        and stop times of the segments that should be found by the algorithm. 
+        Try to cover a range of all the conditions the algorithm will face.
+
+        Run ./findTrains -b testBatchPath -d -e videoExtension
+
+        The algorithm will print out what clips it would have found. Compare
+        these to your results. If it missed some clips that you found, lower 
+        the difference threshold or the minimum length in getParams in 
+        trainUtil.py. If it found more clips than you wanted it to, raise the 
+        difference threshold or the minimum length. A few false positives
+        should be expected, especially when it rains, the winds blows, or
+        someone messes with the camera.
+
+        It's helpful to hard code a set of parameters for your location into
+        the getParams function. This way you don't lose the defaults and you
+        can always adjust freely. To do this, just copy these lines:
+
+            elif setting == "r":
+                return (4, 5*24, 4*24, 6*24, 15*24)
+
+        and give it a new identification string. Add that string into the getopt
+        case statement in findTrains. Both lines are marked by comments in the
+        code.
+
+
+    3.  Find the trains!
+
+        Run ./findTrains -b batchPath -o clipDestination -p parameters
+
+        where parameters is the string you specified in the last step. 
+        The clips will be named by their timestamp based on the camera's 
+        clock.
+
+    4.  Verify each clip
+
+        Briefly look in the center of each clip (in a video player like VLC)
+        to confirm that the clip truly does contain a trian. A %50 success 
+        rate is acceptable, sometimes lower if it was a windy day.
+
+
+
+DEPENDENCIES
+------------
+
+- ffmpeg must be installed
+
+- Makefile requires .MTS files. See the section on Makefile or the comments in 
+the file itself for more information.
+
+- Makefile requires difference-filter be located in ~/tmThumbnail/filters/difference-filter
+
+- findTrains requires all video batches be names 00001.??? 00002.???, etc. sequentially.
+
+
+
+MAINTENANCE
+-----------
+
+I (Jake Klingensmith) will not be at CREATE Lab for the foreseeable future. Email 
+Randy Sargent (rsargent@cmu.edu) for questions regarding use of the code first. I can 
+potentially be reached by email (jklingen92@gmail.com) as a last resort.
+
+PRIMARY: rsargent@cmu.edu
+SECONDARY: jklingen92@gmail.com
